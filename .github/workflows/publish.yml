@@ -1,0 +1,29 @@
+
+on: 
+  push:
+    branches:
+      - master
+
+name: Build and publish site
+jobs:
+  build-bundle-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: Checkout
+        uses: actions/checkout@v2
+        
+      - name: Build
+        uses: TonySpegel/zola-build-action@v1
+        env:
+          CONFIG_FILE: "config.toml"
+
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: gh-pages
+          build_dir: public
+          # fqdn: pratten.ca
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
