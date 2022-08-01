@@ -2,11 +2,25 @@
 title: Warren Pratten - Musician
 ---
 
-Music is my hobby. I enjoy creating, playing, and recording music both by myself and with others.
+I am a musician and composer.   I am primarily a guitarist interested in creating music that apply textures, loops, found sounds, and accidental sounds.
 
-I've been making music since the early 80's. I've always been fascinated by creating and recording music.  I am not much into playing music made by others.  Around the house I'll occasionally pick up the guitar to play along with a CD but I've never had the desire to be in a cover band.  I have played in bands since I was a teen back in the early 80's (yes I am that old).  Past bands include Bits of Food and Baku.  Lately I've been working on a new project called Name with No Sound with Mark Favro
+ 
+
+ 
+
+I've always had an interest in creating and recording music.   Even as a young teen, I was experimenting creating music using multiple cassette decks to simulate overdubbing.   Things changed significantly when I was able to purchase an early 4 track cassette recorder (Fostex X15).   I used that Fostex extensively to record both my own music as well as create demo tracks for area bands.     
+
+ 
+
+In addition to my own solo efforts I have collaborated with a number of different people over the years.   The most notable collaborations being Bits of Food (aka BOF),  Baku, and Name with No Sound.
+
+ 
+
+You can check out my discography here.
 
 ## Projects
 [Solo](/projects/solo)
 [Name With No Sound](/projects/namewithnosound)
 [Magic Daffodils](/projects/magicdaffodils)
+[Bits of Food](/projects/bitsoffood)
+[Baku](/projects/baku)
