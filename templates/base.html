@@ -21,6 +21,25 @@
 
 <body>
 
+  {# Navbar #}
+  <nav class="navbar sticky-top navbar-expand-lg bg-light">
+    <div class="container">
+      <span class="navbar-brand">{{config.title}}</span>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+        aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-link" href="/">Home</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  {# Spacing between nav and content #}
+  <div style="height:2rem;"></div>
+
   {# Main content #}
   <div class="container">
     <article class="markdown-body">
