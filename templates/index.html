@@ -1,5 +1,9 @@
 {%extends "base.html"%}
 
+{# This override is used to dynamically set your page title #}
+{% block title %}{{ section.title }} - {{ config.title }}{% endblock title %}
+
+{# This override injects your rendered markdown into the base file #}
 {%block content%}
     {{ section.content | safe }}
 {%endblock content%}
