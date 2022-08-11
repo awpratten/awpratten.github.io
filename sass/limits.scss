@@ -1,0 +1,10 @@
+// This file just sets some limits on how big things can be
+
+img {
+  max-width: 100%;
+}
+
+table {
+    max-width: 100%;
+    overflow-x: scroll;
+}
