@@ -52,3 +52,12 @@ Primary effects leveraged:
 ### Eventide Black Hole
 
 I am definitely a reverb junky.   The Line 6 M9 has solid reverbs that I love and my Princeton has an incredible tube driven spring reverb but I wanted something that was totally otherworldly.  The Black Hole has an extremely powerful reverb engine that is easily tweakable.
+
+## Recording Gear
+
+My home studio is pretty basic:
+
+* Focusrite Scarlett 2i2 as my audio capture
+* Ableton Live Intro as my DAW
+* Zoom H2N for live capture and field recordings
+* Occasional use of Audacity as a secondary DAW
