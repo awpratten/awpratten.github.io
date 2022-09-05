@@ -13,6 +13,7 @@ title: Projects - Name with No Sound
 ![Baku performing at Eric Stach's Studio123](/static/atEricStachStudio.png)
 
 ## About
+
 Baku was comprised of Owen Curnoe, Mark Favro, and Warren Pratten. All three had been a part of the London music scene since early 1980's; playing in a variety of bands playing mostly original material.
 
 Baku was originally formed in 1986 by Owen and Warren. Inspired by film soundtracks such as Vangelis's "Blade Runner", Baku was intended to be a side project to produce "movie music" for Owen's short films.

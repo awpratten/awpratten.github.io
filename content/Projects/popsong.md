@@ -4,9 +4,7 @@ title: Projects - Pop Song
 
 # The Pop Song
 
-
 A little story that I wrote related to this collaboration....
-
 
 During our first COVID19 lockdown, I recorded a collection of my own songs and published them to Bandcamp for others to enjoy.   This was a project I had been considering doing for a few years and the lockdown gave me the time to put it together.  I am proud of all of the songs, and one song in particular is pretty special,  "For G".   As you can guess "G" is my wife Gianna.  The song came about one night while I was just noodling around on guitar with something.  Gianna came by and said "That's really pretty.  What is it?"  I said "I don't know.  I just made it up".   The fact that she liked it inspired me to formalize what I was doing into a song.    It was very purposefully recorded free of any time signature.  I was simply following the decay of the notes as a feeling for when to pick the next.  This fact is important to understand for the purposes of my story.
  
