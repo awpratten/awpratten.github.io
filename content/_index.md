@@ -11,6 +11,7 @@ I've always had an interest in creating and recording music.   Even as a young t
 In addition to my own solo efforts I have collaborated with a number of different people over the years.   The most notable collaborations being Bits of Food (aka BOF), Baku, and Name with No Sound.
 
 You can check out my [discography](/Discography) here.
+
 You can read about the [gear](/Gear) I use here.
 
 ## Projects
