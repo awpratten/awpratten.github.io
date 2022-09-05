@@ -19,3 +19,11 @@ Our music is all original and draws from our musical backgrounds and interests. 
 We meet roughly once a week to experiment with various musical ideas.  Some of those ideas serve as a starting point from which we further refine into a composition. 
 
 In addition, Mark is an accomplished filmmaker and our music has been used in conjunction with Mark's videos both in a live setting and on various internet websites such as Youtube.
+
+## Performances
+
+Name with No Sound was primarily a recording project but did perform occasionally at Forest City Gallery and Eric Stach's Studio 123
+
+## Media
+
+Name with No Sound's music can be found on the following platforms:  (Youtube)[https://www.youtube.com/channel/UCXecWwONFTPC6EMdr__j0_Q], [Bandcamp](https://namewithnosound.bandcamp.com/), [Spotify](https://open.spotify.com/artist/3N1BRguiHd7kYBFkryUDAJ), [Apple Music](https://music.apple.com/ca/artist/name-with-no-sound/1438182483), and [Amazon Music].(https://music.amazon.co.uk/artists/B093P92V9C/warren-pratten)
