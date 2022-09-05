@@ -10,7 +10,7 @@ title: Projects - Name with No Sound
 * Owen Curnoe - synths, drums, programming
 * Mark Favro - synths, samples
 
-![Baku performing at Eric Stach's Studio123](static/atEricStachStudio.png)
+![Baku performing at Eric Stach's Studio123](/static/atEricStachStudio.png)
 
 ## About
 Baku was comprised of Owen Curnoe, Mark Favro, and Warren Pratten. All three have been a part of the London music scene since early 1980's; playing in a variety of bands playing mostly original material.

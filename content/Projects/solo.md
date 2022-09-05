@@ -9,3 +9,6 @@ The initial lockdown at the start of the COVID pandemic gave me the opportunity 
 In the spirit of keeping things simple the goal was to perform the pieces live into a mic. No overdubs, no post processing etc. 
 
 Since then I have spent some time focusing on my own song craft by creating guitar pieces I can and could play wholly. 
+
+You can find my music on platforms such as (Youtube)[https://www.youtube.com/user/awpratten], [Bandcamp](https://awarrenpratten.bandcamp.com/), [Spotify](https://open.spotify.com/artist/6EMz21hr6zc1O3y3aLNWCs), [Apple Music](https://music.apple.com/ag/artist/warren-pratten/1565049405), and [Amazon Music].(https://music.amazon.co.uk/artists/B093P92V9C/warren-pratten)
+
