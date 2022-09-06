@@ -29,7 +29,7 @@ This was a purely fortuitous collaboration that ended up being quite rewarding a
 My long running collaboration with Mark Favro.  Primarily active from 2006 until 2020.  We focused on electronic, ambient music.  You can read more [here](/Projects/namewithnosound)
 
 ### Baku (1986 to 1988 and 1996 to 2004)
-Baku had two manifestations.   In the mid 80's I worked with my friend Owen Curnoeto produce ambient, soundtrack music for his videos and movies.   Largely inspired by the Blade Runner soundtrack by Vangelis.
+Baku had two manifestations.   In the mid 80's I worked with my friend Owen Curnoe to produce ambient, soundtrack music for his videos and movies.   Largely inspired by the Blade Runner soundtrack by Vangelis.
 
 In 1996, the second manifestation of Baku with Owen Curnoe and Mark Favro.  Our music was electronic, experimental, ambient, industrial.  You can read more about Baku [here](/Projects/baku)
 
