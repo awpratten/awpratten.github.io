@@ -26,4 +26,4 @@ Name with No Sound was primarily a recording project but did perform occasionall
 
 ## Media
 
-Name with No Sound's music can be found on the following platforms:  [Youtube](https://www.youtube.com/channel/UCXecWwONFTPC6EMdr__j0_Q), [Bandcamp](https://namewithnosound.bandcamp.com/), [Spotify](https://open.spotify.com/artist/3N1BRguiHd7kYBFkryUDAJ), [Apple Music](https://music.apple.com/ca/artist/name-with-no-sound/1438182483), and [Amazon Music](https://music.amazon.co.uk/artists/B093P92V9C/warren-pratten)
+Name with No Sound's music can be found on the following platforms:  (Youtube)[https://www.youtube.com/channel/UCXecWwONFTPC6EMdr__j0_Q], [Bandcamp](https://namewithnosound.bandcamp.com/), [Spotify](https://open.spotify.com/artist/3N1BRguiHd7kYBFkryUDAJ), [Apple Music](https://music.apple.com/ca/artist/name-with-no-sound/1438182483), and [Amazon Music](https://music.amazon.co.uk/artists/B093P92V9C/warren-pratten)
