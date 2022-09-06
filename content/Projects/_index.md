@@ -8,7 +8,7 @@ A short description of some of my primary projects working backward in time.   I
 
 ### Solo (Current)
 
-I am always working on stuff in my own.  In the past some of my sketches have worked thei way into stuff I’ve done with others.  Of course there’s lots of throw way stuff too    Experiments that didn’t go anywhere or I lost interest in. 
+I am always working on music on my own.  In the past some of my sketches have worked their way into music I’ve done with others.  Of course there is a lot of throw way stuff too, experiments that didn’t go anywhere or I lost interest in. 
 
 Since the COVID pandemic I’ve put more effort into crafting my own music and publishing it.  
 
