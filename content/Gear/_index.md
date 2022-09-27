@@ -7,6 +7,7 @@ title: Gear
 I am not really a gear hound.  I like to keep things simple.
 
 ## Guitars
+
 ### Red
 One day while walking home from high school I stopped in the London Guitar Shoppe and saw a guitar I absolutely fell in love with.  A used Yamaha SJ-550.  This was around 1986.  I told my dad about the guitar and I believe the next day we went up and he bought it for me.  This guitar has been with me ever since and I'll never part with it because of the sentimental value it holds.  Red has been my primary guitar ever since and I used it all the way through Baku.    It is a Tele style guitar with a fixed bridge.  It has two tap-able humbucking pickups.
 
@@ -52,3 +53,12 @@ Primary effects leveraged:
 ### Eventide Black Hole
 
 I am definitely a reverb junky.   The Line 6 M9 has solid reverbs that I love and my Princeton has an incredible tube driven spring reverb but I wanted something that was totally otherworldly.  The Black Hole has an extremely powerful reverb engine that is easily tweakable.
+
+## Recording Gear
+
+My home studio is pretty basic:
+
+* Focusrite Scarlett 2i2 as my audio capture
+* Ableton Live Intro as my DAW
+* Zoom H2N for live capture and field recordings
+* Occasional use of Audacity as a secondary DAW
