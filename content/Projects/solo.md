@@ -1,8 +1,6 @@
 ---
-title: Projects - Solo 
+title: Solo Projects
 ---
-
-# Solo Projects
 
 Ever since I started playing guitar I was more interested in playing music I made up rather than learning a bunch of other people’s songs.   Mostly though I’ve focused on playing in a group se tting.  
 

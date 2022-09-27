@@ -1,8 +1,6 @@
 ---
-title: Projects - Name with No Sound
+title: Baku
 ---
-
-# Baku
 
 ## Members
 
