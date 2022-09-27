@@ -43,4 +43,11 @@ Baku was interviewed and filmed as part of the documentary ["What About Me: The 
 
 You can find Baku's music on [Bandcamp](https://baku.bandcamp.com/)
 
+### Images
+
+![Baku performing at Eric Stach's Studio123](/images/atEricStachStudio.png)
+
+### Video
+
 ... links to Youtube videos to come
+
