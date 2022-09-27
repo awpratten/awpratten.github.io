@@ -21,6 +21,7 @@
   {# Custom styles #}
   <link rel="stylesheet" href="/page.css">
   <link rel="stylesheet" href="/limits.css">
+  <link rel="stylesheet" href="/navbar.css">
 
   {# SEO Magic - This will make webpage embeds look nice in things like slack #}
   <meta name="twitter:card" content="summary" />
@@ -36,7 +37,7 @@
 <body>
 
   {# Navbar #}
-  <nav class="navbar sticky-top navbar-expand-lg bg-light">
+  <nav class="navbar sticky-top navbar-expand-lg navbar-dark">
     <div class="container">
       <span class="navbar-brand">Warren Pratten</span>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
@@ -55,11 +56,8 @@
     </div>
   </nav>
 
-  {# Spacing between nav and content #}
-  <div style="height:2rem;"></div>
-
   {# Main content #}
-  <div class="container">
+  <div class="container" id="site-content">
     <article class="markdown-body">
       {% block content %} {% endblock content %}
     </article>

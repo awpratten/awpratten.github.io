@@ -1,8 +1,7 @@
 ---
-title: Projects - Pop Song 
+title: The Pop Song
 ---
 
-# The Pop Song
 
 A little story that I wrote related to this collaboration....
 

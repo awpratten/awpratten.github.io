@@ -1,8 +1,7 @@
 ---
-title: Gear
+title: My Gear
 ---
 
-# Gear
 
 I am not really a gear hound.  I like to keep things simple.
 
