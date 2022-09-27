@@ -2,7 +2,6 @@
 title: Media
 ---
 
-
 ## Baku at Eric Stach's Studio 123
 
 ![Baku performing at Eric Stach's Studio123](/images/action/atEricStachStudio.png)
