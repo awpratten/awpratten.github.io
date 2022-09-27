@@ -1,8 +1,7 @@
 ---
-title: Projects - Name with No Sound
+title: Other Gear
 ---
 
-# Other Gear
 
 Firstly I am impressed that you've bothered to read this far.  :-)
 

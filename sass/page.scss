@@ -1,14 +1,24 @@
 /* Background Gradient for Triadic Colors */
-.gradient1
-{
-    background-color: #DEFFE9;
-    /* For WebKit (Safari, Chrome, etc) */
-    background: #DEFFE9 -webkit-gradient(linear, left top, left bottom, from(#D9B19C), to(#DEFFE9)) no-repeat;
-    /* Mozilla,Firefox/Gecko */
-    background: #DEFFE9 -moz-linear-gradient(top, #D9B19C, #DEFFE9) no-repeat;
-    /* IE 5.5 - 7 */
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9B19C, endColorstr=#DEFFE9) no-repeat;
-    /* IE 8 */
-    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9B19C, endColorstr=#D9B19C)" no-repeat;
+.gradient1 {
+  background-color: #deffe9;
+  /* For WebKit (Safari, Chrome, etc) */
+  background: #deffe9 -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#d9b19c),
+      to(#deffe9)
+    ) no-repeat;
+  /* Mozilla,Firefox/Gecko */
+  background: #deffe9 -moz-linear-gradient(top, #d9b19c, #deffe9) no-repeat;
+  /* IE 5.5 - 7 */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9B19C, endColorstr=#DEFFE9) no-repeat;
+  /* IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9B19C, endColorstr=#D9B19C)"
+    no-repeat;
 }
 
+.page-title {
+  text-align: center;
+  font-size: 1.5em;
+}

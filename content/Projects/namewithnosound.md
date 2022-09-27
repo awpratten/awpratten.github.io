@@ -1,8 +1,6 @@
 ---
-title: Projects - Name with No Sound
+title: Name with No Sound
 ---
-
-# Name with No Sound
 
 ## Members:
 * Warren Pratten - guitars and programmed music

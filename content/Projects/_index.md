@@ -1,8 +1,7 @@
 ---
-title: Projects
+title: My Projects
 ---
 
-## Projects
 
 A short description of some of my primary projects working backward in time.   I also have a few other more sporadic collaborations.
 
