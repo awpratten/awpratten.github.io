@@ -1,5 +1,5 @@
 ---
-title: Discography
+title: My Discography
 ---
 
 

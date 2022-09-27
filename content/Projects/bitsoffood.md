@@ -1,8 +1,7 @@
 ---
-title: Projects - Bits of Food (aka BOF)
+title: Bits of Food (aka BOF)
 ---
 
-# Bits of Food (aka BOF)
 
 ## Members:
 
