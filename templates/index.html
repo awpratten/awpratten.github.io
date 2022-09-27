@@ -2,6 +2,7 @@
 
 {# This override is used to dynamically set your page title #}
 {% block title %}{{ section.title }} - {{ config.title }}{% endblock title %}
+<meta name="og:title" content="{{ section.title }} - {{ config.title }}" />
 
 {# This override injects your rendered markdown into the base file #}
 {%block content%}
