@@ -1,0 +1,38 @@
+<div class="discog-entry">
+    {% if url %}
+    <a href="{{url}}" target="_blank">
+        <h3>{{title}}</h3>
+    </a>
+    {% else %}
+    <h3>{{title}}</h3>
+    {% endif %}
+    <h4>Published: {{pub_date}}
+        {% if publisher %}
+        via
+        {% if cat_num %}
+        <a class="hover-help" title="Catalog: {{cat_num}}">{{publisher}}</a>
+        {% else %}
+        {{publisher}}
+        {% endif %}
+        {% endif %}
+    </h4>
+
+    {# Bandcamp embed #}
+    {% if bandcamp_embed %}
+    <br>
+    <div style="display:flex; justify-content:center;">
+        <iframe style="border: 0; width:100%; max-width: 700px; height: 300px;"
+            src="https://bandcamp.com/EmbeddedPlayer/album={{bandcamp_embed}}/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/"
+            seamless></iframe>
+    </div>
+    {% endif %}
+
+    {# Spotify embed #}
+    {% if spotify_embed %}
+    <br>
+    <iframe src="https://open.spotify.com/embed{{spotify_embed}}" width="100%" {% if not single %} height="380"
+        {% else %}height="80"{% endif %} frameBorder="0" allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    {% endif %}
+
+</div>
