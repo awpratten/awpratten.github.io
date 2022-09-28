@@ -5,6 +5,9 @@ title: My Gear
 
 I am not really a gear hound.  I like to keep things simple.
 
+
+![Gear at Alex's Farm](/images/gear/gearShot1.JPG)
+
 ## Guitars
 
 ### Red
