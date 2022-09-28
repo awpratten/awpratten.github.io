@@ -26,6 +26,9 @@ This was the first attempt at building a stringed instrument for me to play.  I 
 
 This was the first real guitar.  It was modeled vaguely on a Fender Stratocaster.  I used this during the first few years of Bits Of Food.  It had a distinctive sound, bright, thin, and nasally.  It was also quite a challenge to play because it had a long scale which puts the frets further apart but my hands are not particularly large and at 16 were even smaller.
 
+![String Thing #2](/images/gear/stringThing2Front.jpg)
+![String THing #2](/images/gear/stringThing2Back.jpg)
+
 ### Vitals
 
 * Built around 1982
@@ -45,6 +48,9 @@ This was the first real guitar.  It was modeled vaguely on a Fender Stratocaster
 
 This guitar was my main guitar in Bits Of Food.  It was a good size for me and was lighter in weight partly in relation to the weight of the earlier guitars..  The two humbucking pickups provided a good solid sound and it had a built in compressor for even more boost. 
 
+![String Thing #3](/images/gear/stringThing3Front.jpg)
+![String Thing #3](/images/gear/stringThing3Back.jpg)
+
 #### Vitals
 
 * Built around 1983
@@ -58,6 +64,9 @@ This guitar was my main guitar in Bits Of Food.  It was a good size for me and w
 ### String Thing #4
 
 I can't really remember the origin of this guitar.  I believe actually it was more motivated by my dad than anything.  We were both fascinated by the Chapman Stick which partially explains the appearance.  It was also an attempt to use tremolo which is Fender Stratocaster styled.   I have used this guitar mostly in situations where I was playing in one of the noise venues (i.e. with The Nihilist Spasm Band or at the No Music Festivals).  It tends to be a good guitar for just wailing on.  It is the only one of the guitars I built that has been in active service in the past 20 years.
+
+![String Thing #4](/images/gear/stringThing4Front.jpg)
+![String Thing #4](/images/gear/stringThing4Back.jpg)
 
 #### Vitals
 

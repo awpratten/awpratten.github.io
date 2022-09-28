@@ -44,4 +44,4 @@ Night performance in the pouring rain
 ## Magic Daffodils at Alex's Farm
 
 ![Magic Daffodils at Alex's Farm - Warren and Bernie](/images/action/withBernieMagicDaffodilsAtAlexFarm.jpg)
-![Magic Daffodils at Alex's Farm](/images/action/magicDaffodilsAtAlexFarm.jpg)
+![Magic Daffodils at Alex's Farm](/images/action/magicDaffodilsAtAlexFarm.JPG)
