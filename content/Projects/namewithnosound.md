@@ -2,6 +2,9 @@
 title: Name with No Sound
 ---
 
+![Name with No Sound](/images/action/nwnsLogo.png)
+
+
 ## Members:
 * Warren Pratten - guitars and programmed music
 * Mark Favro - keyboards, samples, vocals, and programmed music
@@ -22,6 +25,11 @@ In addition, Mark is an accomplished filmmaker and our music has been used in co
 
 Name with No Sound was primarily a recording project but did perform occasionally at Forest City Gallery and Eric Stach's Studio 123
 
-## Media
+## Music
 
-Name with No Sound's music can be found on the following platforms:  (Youtube)[https://www.youtube.com/channel/UCXecWwONFTPC6EMdr__j0_Q], [Bandcamp](https://namewithnosound.bandcamp.com/), [Spotify](https://open.spotify.com/artist/3N1BRguiHd7kYBFkryUDAJ), [Apple Music](https://music.apple.com/ca/artist/name-with-no-sound/1438182483), and [Amazon Music](https://music.amazon.co.uk/artists/B093P92V9C/warren-pratten)
+Name with No Sound's music can be found on the following platforms:  
+ * [Youtube](https://www.youtube.com/channel/UCXecWwONFTPC6EMdr__j0_Q)
+ * [Bandcamp](https://namewithnosound.bandcamp.com/)
+ * [Spotify](https://open.spotify.com/artist/3N1BRguiHd7kYBFkryUDAJ)
+ * [Apple Music](https://music.apple.com/ca/artist/name-with-no-sound/1438182483)
+ * [Amazon Music](https://music.amazon.co.uk/artists/B093P92V9C/warren-pratten)

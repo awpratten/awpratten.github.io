@@ -37,15 +37,9 @@ Baku performed at Forest City Gallery, Call the Office, and Eric Stach's Studio 
 
 Baku was interviewed and filmed as part of the documentary ["What About Me: The Rise of the Nihilist Spasm Band"](https://www.imdb.com/title/tt0266040/) by Zev Asher.   The documentary also used some of Baku's music for some of the intersitial scens.
 
-## Media
+## Music
 
 You can find Baku's music on [Bandcamp](https://baku.bandcamp.com/)
 
-### Images
 
-![Baku performing at Eric Stach's Studio123](/images/atEricStachStudio.png)
-
-### Video
-
-... links to Youtube videos to come
 
