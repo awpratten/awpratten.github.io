@@ -18,11 +18,32 @@
     no-repeat;
 }
 
+body {
+  //   background-color: #eeeeee;
+}
+
+#site-content {
+  background-color: white;
+  padding: 0;
+  min-height: 100vh;
+
+  & > .markdown-body {
+    padding: 1em;
+  }
+}
+
 .page-title {
   text-align: center;
   font-size: 1.5em;
 }
 
 .container {
-    max-width: 1000px;
+  max-width: 1000px;
+}
+
+.hover-help {
+  border-bottom: 1px double #aba7a7;
+  &:hover {
+    cursor: help;
+  }
 }

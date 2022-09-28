@@ -27,6 +27,7 @@
   <link rel="stylesheet" href="/page.css">
   <link rel="stylesheet" href="/limits.css">
   <link rel="stylesheet" href="/navbar.css">
+  <link rel="stylesheet" href="/discog.css">
 
   {# SEO Magic - This will make webpage embeds look nice in things like slack #}
   <meta name="twitter:card" content="summary" />
@@ -42,37 +43,43 @@
 <body>
 
   {# Navbar #}
-  <nav class="navbar sticky-top navbar-expand-lg navbar-dark">
-    <div class="container">
-      <span class="navbar-brand">Warren Pratten</span>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
-        aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav me-auto mb-2 mb-lg-0">
-          <a class="nav-link" href="/">Home</a>
-          <a class="nav-link" href="/Discography">Discography</a>
-          <a class="nav-link" href="/Projects">Projects</a>
-          <a class="nav-link" href="/Gear">Gear</a>
-          <a class="nav-link" href="/Media">Media</a>
-        </div>
-        <span class="navbar-text" id="navbar-icons">
-          <a href="https://github.com/awpratten" rel="me" target="_blank"><i class="fa-brands fa-github"></i></a>
-          <a href="https://www.linkedin.com/in/warrenpratten/" rel="me" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-          <a href="https://music.apple.com/ag/artist/warren-pratten/1565049405" rel="me" target="_blank"><i class="fa-brands fa-apple"></i></a>
-          <a href="https://open.spotify.com/artist/6EMz21hr6zc1O3y3aLNWCs" rel="me" target="_blank"><i class="fa-brands fa-spotify"></i></a>
-        </span>
+  <div class="navbar-container sticky-top">
+    <nav class="navbar navbar-expand-lg navbar-dark">
+      <div class="container">
+        <span class="navbar-brand">Warren Pratten</span>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav me-auto mb-2 mb-lg-0">
+            <a class="nav-link" href="/">Home</a>
+            <a class="nav-link" href="/Discography">Discography</a>
+            <a class="nav-link" href="/Projects">Projects</a>
+            <a class="nav-link" href="/Gear">Gear</a>
+            <a class="nav-link" href="/Media">Media</a>
+          </div>
+          <span class="navbar-text" id="navbar-icons">
+            <a href="https://github.com/awpratten" rel="me" target="_blank"><i class="fa-brands fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/warrenpratten/" rel="me" target="_blank"><i
+                class="fa-brands fa-linkedin"></i></a>
+            <a href="https://music.apple.com/ag/artist/warren-pratten/1565049405" rel="me" target="_blank"><i
+                class="fa-brands fa-apple"></i></a>
+            <a href="https://open.spotify.com/artist/6EMz21hr6zc1O3y3aLNWCs" rel="me" target="_blank"><i
+                class="fa-brands fa-spotify"></i></a>
+          </span>
 
+        </div>
       </div>
-    </div>
-  </nav>
+    </nav>
+  </div>
 
   {# Main content #}
   <div class="container" id="site-content">
     <article class="markdown-body">
       {% block content %} {% endblock content %}
     </article>
+    <br>
   </div>
 
   {# These are needed by bootstrap #}
