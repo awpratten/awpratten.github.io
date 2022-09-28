@@ -2,6 +2,7 @@
 title: Bits of Food (aka BOF)
 ---
 
+![Bits Of Food](/images/action/bofBanner.jpg)
 
 ## Members:
 
@@ -18,3 +19,15 @@ Bits of Food (aka BOF) was a London, Ontario band that was active from 1982 to 1
 Bits of Food was a proto-Punk/Industrial/Noise band.  
 
 ........Links to pictures and videos to come.
+
+## Pictures
+
+![Bits Of Food at Stephen's Hall](/images/action/bofStStephensHall1.jpg)
+![Bits Of Food at Stephen's Hall](/images/action/bofStStephensHall2.jpg)
+![Bits Of Food at Stephen's Hall](/images/action/bofStStephensHall3.jpg)
+
+
+
+![Bits Of Food at Stephen's Hall](/images/action/bofStStephensHall1.jpg)
+![Bits Of Food](/images/action/bofBanner.jpg)
+![Bits Of Food](/images/action/bofBanner.jpg)
