@@ -10,7 +10,12 @@ title: My Discography
 {{ discog_entry(title="Warren Pratten - Stepping into the Hole", pub_date="2021", spotify_embed="/album/0OFnXYlfqYXO8yf2n9Yo5f", single=true) }}
 {{ discog_entry(title="Warren Pratten & Jake - For G (I Am Home)", pub_date="2021", spotify_embed="/album/5lPOSoHlM9W6ZIVCpfyS7p", single=true) }}
 {{ discog_entry(title="Warren Pratten - Quarantine Sessions", pub_date="2020", spotify_embed="/album/2imvnRs3b9zEBqrmp5vZO1") }}
+{{ discog_entry(title="Name With No Sound - Bloom", pub_date="2020", bandcamp_embed="2303563467") }}
+{{ discog_entry(title="Name With No Sound - Awaken", pub_date="2018", bandcamp_embed="2307710560") }}
 {{ discog_entry(title="Warren Pratten - Rainy Sunday Afternoon", pub_date="2018", spotify_embed="/album/1tFjhv9bWBb82eWyTKvI7F", single=true) }}
+{{ discog_entry(title="Name With No Sound - Shoreline", pub_date="2016", bandcamp_embed="2045964157") }}
+{{ discog_entry(title="Name With No Sound - Where it all begins", pub_date="2016", bandcamp_embed="2776589359") }}
+{{ discog_entry(title="Name With No Sound - Obscured by Leaves", pub_date="2014", bandcamp_embed="1921715192") }}
 {{ discog_entry(title="Name With No Sound - Trudge", pub_date="2014", bandcamp_embed="408388423") }}
 {{ discog_entry(title="Name With No Sound - Rowboating", pub_date="2013", bandcamp_embed="1241341484") }}
 {{ discog_entry(title="Name With No Sound - Name With No Sound Live 2012", pub_date="2012", bandcamp_embed="2076218030") }}
