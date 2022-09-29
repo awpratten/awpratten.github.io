@@ -68,4 +68,4 @@ My home studio is pretty basic:
 * Occasional use of Audacity as a secondary DAW
 
 
-You can read about my home built guitars and other gear [here](/content/Gear/othergear)
+You can read about my home built guitars and other gear [here](/content/Gear/othergear.md)
