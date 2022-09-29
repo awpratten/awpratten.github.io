@@ -2,6 +2,7 @@
 title: My Gear
 ---
 
+![Red and Lynn](/images/gear/twoguitars.jpg)
 
 I am not really a gear hound.  I like to keep things simple.
 
@@ -28,16 +29,7 @@ I remember distinctly watching the Woodstock movie when I was around 14 and bein
 
 What can I say?  This amp is the sound that I hear in my head.  End of story.
 
-### Roland Cube 30x
 
-A digital modeler.  I seriously considered either this or the Roland Cube 60 but ultimately decided I just didn't need the power.  The 30x suits me fine.  I prefer using the JC Clean, Black Panel, and Tweed models.   I mostly have been using this platform for recording with NwnS as it outputs a good line level signal that can be used into the mixer/recorder.
-
-### ZT Lunchbox
-When I saw this thing I knew I had to have it.  If I was to design an amplifier this would probably have been it.  Small, clean, loud with nothing extra.  it can be used standalone or as a head.   I have used it a number of times for practice with NwnS and performed with it.  It is a perfect clean  platform for my pedals.   I am on a 3rd generation of Lunchbox.  The 1st gen box I had originally had a lot of hiss.  I contacted the designer at ZT and he agreed to send me a newer one.
-
-### Peavey Special 130
-
-Freakishly loud and heavy.  My dad and I split the cost of this thing back in the 80's.  I used it for almost all the Bits Of Food performances.  He used it in The Nihilist Spasm Band.  This thing is completely overkill for almost any venue.   I haven't used it in years but the Spasm Band still uses it. 
 
 ## Pedal Board
 
@@ -62,6 +54,10 @@ Primary effects leveraged:
 
 I am definitely a reverb junky.   The Line 6 M9 has solid reverbs that I love and my Princeton has an incredible tube driven spring reverb but I wanted something that was totally otherworldly.  The Black Hole has an extremely powerful reverb engine that is easily tweakable.
 
+### Tech21 FlyRig - Cali
+
+Good drive and decent interface for direct to board recording.
+
 ## Recording Gear
 
 My home studio is pretty basic:
@@ -70,3 +66,6 @@ My home studio is pretty basic:
 * Ableton Live Intro as my DAW
 * Zoom H2N for live capture and field recordings
 * Occasional use of Audacity as a secondary DAW
+
+
+You can read about my home built guitars and other gear [here](/content/Gear/othergear)

@@ -80,3 +80,17 @@ I can't really remember the origin of this guitar.  I believe actually it was mo
 * One piece mahogany body with a separate piece of wood added later for a strap
 * One single coil fender Stratocaster style pickup at neck and One Bartolini pickup at neck position.  Bartolini pickup wired to be tapped
 * Fender style tremolo system
+
+
+## Other Amplifiers
+
+### Roland Cube 30x
+
+A digital modeler.  I seriously considered either this or the Roland Cube 60 but ultimately decided I just didn't need the power.  The 30x suits me fine.  I prefer using the JC Clean, Black Panel, and Tweed models.   I mostly have been using this platform for recording with NwnS as it outputs a good line level signal that can be used into the mixer/recorder.
+
+### ZT Lunchbox
+When I saw this thing I knew I had to have it.  If I was to design an amplifier this would probably have been it.  Small, clean, loud with nothing extra.  it can be used standalone or as a head.   I have used it a number of times for practice with NwnS and performed with it.  It is a perfect clean  platform for my pedals.   I am on a 3rd generation of Lunchbox.  The 1st gen box I had originally had a lot of hiss.  I contacted the designer at ZT and he agreed to send me a newer one.
+
+### Peavey Special 130
+
+Freakishly loud and heavy.  My dad and I split the cost of this thing back in the 80's.  I used it for almost all the Bits Of Food performances.  He used it in The Nihilist Spasm Band.  This thing is completely overkill for almost any venue.   I haven't used it in years but the Spasm Band still uses it. 
