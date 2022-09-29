@@ -11,7 +11,7 @@ title: My Discography
 {{ discog_entry(title="Warren Pratten & Jake - For G (I Am Home)", pub_date="2021", spotify_embed="/album/5lPOSoHlM9W6ZIVCpfyS7p", single=true) }}
 {{ discog_entry(title="Warren Pratten - Quarantine Sessions", pub_date="2020", spotify_embed="/album/2imvnRs3b9zEBqrmp5vZO1") }}
 {{ discog_entry(title="Name With No Sound - Bloom", pub_date="2020", bandcamp_embed_single="2303563467") }}
-{{ discog_entry(title="Name With No Sound - Awaken", pub_date="2018", bandcamp_embed_single="2307710560" ) }}
+{{ discog_entry(title="Name With No Sound - Awaken", pub_date="2018", bandcamp_embed="2307710560" ) }}
 {{ discog_entry(title="Warren Pratten - Rainy Sunday Afternoon", pub_date="2018", spotify_embed="/album/1tFjhv9bWBb82eWyTKvI7F", single=true) }}
 {{ discog_entry(title="Warren Pratten - Fussin", pub_date="2018", bandcamp_embed_single="1865794675") }}
 {{ discog_entry(title="Name With No Sound - Shoreline", pub_date="2016", bandcamp_embed="2045964157") }}
