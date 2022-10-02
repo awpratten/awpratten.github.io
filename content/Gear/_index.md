@@ -27,7 +27,7 @@ I remember distinctly watching the Woodstock movie when I was around 14 and bein
 
 ### Fender Princeton Reverb 
 
-What can I say?  This amp is the sound that I hear in my head.  End of story.
+What can I say? I am a Princeton Man.  This amp is the sound that I hear in my head.  End of story.
 
 
 

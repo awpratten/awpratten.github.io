@@ -24,11 +24,12 @@ title: My Discography
 {{ discog_entry(title="Name With No Sound - Sweet Heartache", pub_date="2009", bandcamp_embed="3159374245") }}
 {{ discog_entry(title="Name With No Sound - Into View", pub_date="2007", bandcamp_embed="3552666895") }}
 {{ discog_entry(title="Baku - YXU", pub_date="2003", bandcamp_embed="1063351959") }}
-{{ discog_entry(title="Baku - I Have Nothing To Say ft. Galen Curnoe (on Corona Classics)", pub_date="2002", publisher="Sunship Records", cat_num="EF#177") }}
+{{ discog_entry(title="Baku - I Have Nothing To Say with Galen Curnoe (on Corona Classics)", pub_date="2002", publisher="Sunship Records", cat_num="EF#177") }}
 {{ discog_entry(title="Baku - Askunessippi", pub_date="2002", bandcamp_embed="1753657840") }}
 {{ discog_entry(title="Baku - Method of Nature", pub_date="2002", bandcamp_embed="3167339834") }}
-{{ discog_entry(title="Baku - We Are Not The Nihilist Spasm Band ft. Galen Curnoe", pub_date="2001", publisher="Sunship Records", cat_num="Sun25") }}
+{{ discog_entry(title="Baku - We Are Not The Nihilist Spasm Band with Galen Curnoe", pub_date="2001", publisher="Sunship Records", cat_num="Sun25") }}
 {{ discog_entry(title="Baku - 11/14/01", pub_date="2001") }}
+{{ discog_entry(title="Warren Pratten - Untitled Track #40 with Art Pratten and John Clement ", pub_date"2000",publisher="Entartete Kunst Records", cat_num="EK2120")}}
 {{ discog_entry(title="Baku - Prisoners of Our Own Myopia", pub_date="1998", publisher="MP3.com", cat_num="21225") }}
 {{ discog_entry(title="Baku - Five Babies (on Screw)", pub_date="1997", publisher="Entartete Kunst Records", cat_num="EK1497") }}
 {{ discog_entry(title="Baku - Tracks", pub_date="1997", publisher="MP3.com", cat_num="18932") }}
