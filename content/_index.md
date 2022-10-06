@@ -18,6 +18,7 @@ You can check out my [discography](/Discography) here.
 
 You can read about the [gear](/Gear) I use here.
 
+---
 
-I am a member of the Society of Composers, Authors and Music Publishers of Canada ([SOCAN](http://www.socan.ca)).
+*I am a member of the Society of Composers, Authors and Music Publishers of Canada ([SOCAN](http://www.socan.ca)).*
 
