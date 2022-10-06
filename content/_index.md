@@ -12,13 +12,14 @@ I've always had an interest in creating and recording music.   Even as a young t
 
 In addition to my own solo efforts I have collaborated with a number of different people over the years.   The most notable collaborations being Bits of Food (aka BOF), Baku, and Name with No Sound.
 
+I am a member of the Society of Composers, Authors and Music Publishers of Canada ([SOCAN](http://www.socan.ca)).
+
 You can read about my musical [projects and collaborations](/Projects) here.
 
 You can check out my [discography](/Discography) here.
 
 You can read about the [gear](/Gear) I use here.
 
----
 
-*I am a member of the Society of Composers, Authors and Music Publishers of Canada ([SOCAN](http://www.socan.ca)).*
+
 
