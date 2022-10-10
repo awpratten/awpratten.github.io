@@ -9,7 +9,7 @@ title: My Discography
 {{ discog_entry(title="Warren Pratten - Tea and Cookies", pub_date="2022", spotify_embed="/album/7LUDSyxKjtwurN0nirxPok", single=true) }}
 {{ discog_entry(title="Warren Pratten - Stepping into the Hole", pub_date="2021", spotify_embed="/album/0OFnXYlfqYXO8yf2n9Yo5f", single=true) }}
 {{ discog_entry(title="Warren Pratten & Jake - For G (I Am Home)", pub_date="2021", spotify_embed="/album/5lPOSoHlM9W6ZIVCpfyS7p", single=true) }}
-{{ discog_entry(title="Warren Pratten & Jake - For G (I Am Home)", pub_date="2021", spotify_embed="/album/635eVmjkZqdkv6Y50OnHpS", single=true) }}
+{{ discog_entry(title="Warren Pratten & Jake - For G (I Am Home) - Pop Mix", pub_date="2021", spotify_embed="/album/635eVmjkZqdkv6Y50OnHpS", single=true) }}
 {{ discog_entry(title="Warren Pratten - Quarantine Sessions", pub_date="2020", spotify_embed="/album/2imvnRs3b9zEBqrmp5vZO1") }}
 {{ discog_entry(title="Name With No Sound - Bloom", pub_date="2020", bandcamp_embed_single="2303563467") }}
 {{ discog_entry(title="Name With No Sound - Awaken", pub_date="2018", bandcamp_embed="2307710560" ) }}
