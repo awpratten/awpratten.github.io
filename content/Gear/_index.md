@@ -126,8 +126,8 @@ This guitar was my main guitar in Bits Of Food.  It was a good size for me and w
 #### Vitals
 
 * Built around 1983
-* 5.8 lbs - lighter to address some of the weight considerations with Guitar 1 22 frets 25 inches from nut to bridge. 
-* Smaller to address the neck length problems from Guitar 1
+* 5.8 lbs - lighter to address some of the weight considerations with Guitar 1 
+* 22 frets 25 inches from nut to bridge. Smaller to address the neck length problems from Guitar 1
 * Neck taken from a cannibalized cheap commercial guitar
 * Laminated body with pieces of oak, mahogany and some other woods
 * One PAF style humbucking pickup at the neck position and one Lawerence pickup at bridge.

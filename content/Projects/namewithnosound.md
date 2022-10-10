@@ -2,6 +2,7 @@
 title: Name with No Sound
 ---
 
+![Baku watercolour](/images/posters/nwns.jpg)
 
 ## Members:
 * Warren Pratten - guitars and programmed music

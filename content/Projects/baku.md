@@ -2,13 +2,15 @@
 title: Baku
 ---
 
+![Baku watercolour](/images/posters/BAKU.jpg)
+
 ## Members
 
 * Warren Pratten - guitar, synths
 * Owen Curnoe - synths, drums, programming
 * Mark Favro - synths, samples
 
-![Baku performing at Eric Stach's Studio123](/images/atEricStachStudio.png)
+
 
 ## About
 
