@@ -45,3 +45,8 @@ Night performance in the pouring rain
 
 ![Magic Daffodils at Alex's Farm - Warren and Bernie](/images/action/withBernieMagicDaffodilsAtAlexFarm.jpg)
 ![Magic Daffodils at Alex's Farm](/images/action/magicDaffodilsAtAlexFarm.JPG)
+
+### Bits of Food at St. Stephen's Hall
+![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall1.png)
+![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall2.png)
+![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall3.png)

@@ -19,9 +19,12 @@ title: My Discography
 {{ discog_entry(title="Name With No Sound - Where it all begins", pub_date="2016", bandcamp_embed="2776589359") }}
 {{ discog_entry(title="Name With No Sound - Obscured by Leaves", pub_date="2014", bandcamp_embed="1921715192") }}
 {{ discog_entry(title="Name With No Sound - Trudge", pub_date="2014", bandcamp_embed="408388423") }}
+{{ discog_entry(title="Name With No Sound - Big Wide West", pub_date="2014", bandcamp_embed_single="3999793181") }}
 {{ discog_entry(title="Name With No Sound - Rowboating", pub_date="2013", bandcamp_embed="1241341484") }}
+{{ discog_entry(title="Name With No Sound - lost puppies", pub_date="2013", bandcamp_embed="1725041613") }}
 {{ discog_entry(title="Name With No Sound - Name With No Sound Live 2012", pub_date="2012", bandcamp_embed="2076218030") }}
 {{ discog_entry(title="Name With No Sound - Driving E", pub_date="2011", bandcamp_embed="2847448858") }}
+{{ discog_entry(title="Name With No Sound - Never Will Fall", pub_date="2014", bandcamp_embed_single="3882578918") }}
 {{ discog_entry(title="Name With No Sound - Sweet Heartache", pub_date="2009", bandcamp_embed="3159374245") }}
 {{ discog_entry(title="Name With No Sound - Into View", pub_date="2007", bandcamp_embed="3552666895") }}
 {{ discog_entry(title="Baku - YXU", pub_date="2003", bandcamp_embed="1063351959") }}

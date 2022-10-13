@@ -20,9 +20,4 @@ Bits of Food was a proto-Punk/Industrial/Noise band.
 
 ## Pictures
 
-![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall1.png)
-![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall2.png)
-![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall3.png)
-
-
 ![Bits Of Food](/images/action/bofGuy.png)
