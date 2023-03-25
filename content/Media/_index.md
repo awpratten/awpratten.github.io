@@ -3,7 +3,7 @@ title: Media
 ---
 
 ### Magic Daffodils at Bernie's
-![Magic Daffodils at Bernie's studio - Warren and Bernie](/images/action/magicDaffodilsAtBernies3.jpg)
+![Magic Daffodils at Bernie's studio - Warren and Bernie](/images/action/magicDaffodilsAtBernies3.JPG)
 ![Magic Daffodils at Berie's studio](/images/action/magicDaffodilsAtBernies2.JPG)
 ![Magic Daffodils at Berie's studio](/images/action/magicDaffodilsAtBernies1.JPG)
 

@@ -23,6 +23,27 @@ I remember distinctly watching the Woodstock movie when I was around 14 and bein
 
 ![Lynn - Fender American Series Stratocaster](/images/gear/lynn.jpg)
 
+### The Baritone (aka String Thing #2)
+
+This was the first real guitar.  It was modeled vaguely on a Fender Stratocaster.  I used this during the first few years of Bits Of Food.  It had a distinctive sound, bright, thin, and nasally.  It was also quite a challenge to play because it had a long scale which puts the frets further apart but my hands are not particularly large and at 16 were even smaller.
+
+I have since updated this guitar to be strung as a baritone (A to A) which really works well.   I've also rewired it from its original active electronics to use a passive "full blender" wiring which allows me to blend each pickup into the sound.   With the new baritone strings and the new wiring the guitar has taken on a much more pleasing and natural "woody" sound.
+
+![String Thing #2](/images/gear/stringThing2Front.jpg)
+![String THing #2](/images/gear/stringThing2Back.jpg)
+
+### Vitals
+
+* Built around 1982
+* 7.8 lbs
+* 22 frets
+* 28 1/2 inches from nut to bridge.  
+* brass nut
+* t-bar re-enforced neck
+* two piece guitar made from white oak 
+* maple fret board
+* 3 single coil fender strat style pickups wired with "full blender" circuit 
+
 ## Amplifiers
 
 ### Fender Princeton Reverb 
@@ -34,6 +55,10 @@ What can I say? I am a Princeton Man.  This amp is the sound that I hear in my h
 ## Pedal Board
 
 My pedal board is simple and designed for maximum flexibility.
+
+### Tech21 FlyRig - Cali
+
+Good drive and decent interface for direct to board recording.  I use this as the first pedal in my board.
 
 ### Line 6 M9
 
@@ -54,9 +79,7 @@ Primary effects leveraged:
 
 I am definitely a reverb junky.   The Line 6 M9 has solid reverbs that I love and my Princeton has an incredible tube driven spring reverb but I wanted something that was totally otherworldly.  The Black Hole has an extremely powerful reverb engine that is easily tweakable.
 
-### Tech21 FlyRig - Cali
 
-Good drive and decent interface for direct to board recording.
 
 ## Recording Gear
 
@@ -68,12 +91,7 @@ My home studio is pretty basic:
 * Occasional use of Audacity as a secondary DAW
 
 
-
-
-
-
 # Other stuff
-
 
 Firstly I am impressed that you've bothered to read this far.  :-)
 
@@ -96,25 +114,7 @@ This was the first attempt at building a stringed instrument for me to play.  I 
 
 ### String Thing #2
 
-This was the first real guitar.  It was modeled vaguely on a Fender Stratocaster.  I used this during the first few years of Bits Of Food.  It had a distinctive sound, bright, thin, and nasally.  It was also quite a challenge to play because it had a long scale which puts the frets further apart but my hands are not particularly large and at 16 were even smaller.
-
-![String Thing #2](/images/gear/stringThing2Front.jpg)
-![String THing #2](/images/gear/stringThing2Back.jpg)
-
-### Vitals
-
-* Built around 1982
-* 7.8 lbs
-* 22 frets
-* 28 1/2 inches from nut to bridge.  An attempt to increase the number of frets.  Little did we know that making the neck longer simply spaced the frets apart further; a critical mistake considering my hand size.
-* brass nut
-* t-bar re-enforced neck
-* two piece guitar made from oak 
-* maple fret board
-* 3 single coil fender strat style pickups
-* each pickup can be separately turned on or off giving 9 combinations
-* separate switch to put pickups into "out of phase"
-* active gain electronics
+See baritone guitar above
 
 ### String Thing #3
 
