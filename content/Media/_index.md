@@ -3,7 +3,7 @@ title: Media
 ---
 
 ### Magic Daffodils performing at June Concert Series, Bernie's
-![Magic Daffodils at Bernie's studio - Full Band](/images/action/magicDaffodils_juneConcertSeries_atBernies.JPG)
+![Magic Daffodils at Bernie's studio - Full Band](/images/action/magicDaffodils_juneConcertSeries_atBernies.jpg)
 
 ### Magic Daffodils at Bernie's
 ![Magic Daffodils at Bernie's studio - Warren and Bernie](/images/action/magicDaffodilsAtBernies3.JPG)
