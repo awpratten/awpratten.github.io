@@ -19,6 +19,10 @@ Recently, I’ve been playing with a group that calls themselves the **Magic Daf
 
 You can read more [here](/Projects/magicdaffodils)
 
+### Proud Papa (Current)
+
+A little bit about some of the collaborations with my son Evan can be found [here](/Projects/proudpapa)
+
 ### Pop Collaboration (2021)
 
 This was a purely fortuitous collaboration that ended up being quite rewarding and ended up with the release of a pop song.  You can read the story [here](/Projects/popsong)
