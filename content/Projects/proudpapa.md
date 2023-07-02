@@ -6,6 +6,6 @@ My son is a talented musician.   He started playing piano at the young age of 5.
 
 He's also quite interested in making his own music and you can find out more about him on his [website](https://ewpratten.com/music)
 
-We have a couple collaboration up on the web and you can find them in my [discography](/Discography).   He has taken one of my tracks and remixed it.  A couple of other tracks he's sent me a work-in-progress and I've added a little guitar.  
+We have a couple collaborations up on the web and you can find them in my [discography](/Discography).   In one instance he took one of my amvient tracks and remixed it.  One a couple of other tracks, he's sent me a work-in-progress and I've added a little guitar.  
 
 Over all it's a neat little connection with my son.
