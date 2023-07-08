@@ -3,9 +3,9 @@ title: Media
 ---
 
 ### Magic Daffodils performing at June Concert Series, Bernie's, June 30, 2023
-![Magic Daffodils at Bernie's studio - Full Band](/images/action/magicDaffodils_juneConcertSeries_atBernies1.jpg)
-![Magic Daffodils at Bernie's studio - me and Bernie](/images/action/magicDaffodils_juneConcertSeries_atBernies2.jpg)
-![Magic Daffodils at Bernie's studio - Band minus Dad](/images/action/magicDaffodils_juneConcertSeries_atBernies3.jpg)
+![Magic Daffodils at Bernie's studio - Full Band](/images/action/magicDaffodils_juneConcertSeries_atBernies1.jpg){:height="50%" width="50%"}
+![Magic Daffodils at Bernie's studio - me and Bernie](/images/action/magicDaffodils_juneConcertSeries_atBernies2.jpg){:height="50%" width="50%"}
+![Magic Daffodils at Bernie's studio - Band minus Dad](/images/action/magicDaffodils_juneConcertSeries_atBernies3.jpg){:height="50%" width="50%"}
 
 ### Magic Daffodils at Bernie's, 
 ![Magic Daffodils at Bernie's studio - Warren and Bernie](/images/action/magicDaffodilsAtBernies3.JPG)
