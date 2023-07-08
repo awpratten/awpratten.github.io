@@ -56,7 +56,7 @@ Night performance in the pouring rain
 ![Playing at the Screw Release Party](/images/action/bakuAtCallTheOffice.jpg)
 
 
-### Bits of Food at St. Stephen's Hall
+### Bits of Food at St. Stephen's Hall, London, Ontario, 1983
 ![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall1.png)
 ![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall2.png)
 ![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall3.png)
