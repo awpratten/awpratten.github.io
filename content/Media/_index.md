@@ -22,10 +22,7 @@ title: Media
 ![Name With No Sounds at The Forest City Gallery](/images/action/nwnsAtForestCityGallery2.jpg)
 ![Name With No Sounds at The Forest City Gallery](/images/action/nwnsAtForestCityGallery3.jpg)
 
-### Baku at Eric Stach's Studio 123
-![Baku performing at Eric Stach's Studio123](/images/action/atEricStachStudio.png)
-![Baku performing at Eric Stach's Studio123](/images/action/atEricStachsWithBaku.jpg)
-![Baku performing at Eric Stach's Studio123](/images/action/bakuAtEricStachs.jpg)
+
 
 ### Jamming with 6Heads, 3 Stoogies, and my son Evan at the Forest City Gallery - 2011/07/10
 ![With Evan, 3 Stoogies, and 6 Heads](/images/action/withEvanAnd3stoogiesAnd6heads.jpg)
@@ -33,6 +30,11 @@ title: Media
 
 ### Performing at the Hugh McIntyre Memorial Jam, Decent Club, London, Ontario, 2005
 ![Playing with Aya, Jojo, and John Clement](/images/action/hughMemorialJamatDecentClub.jpg)
+
+### Baku at Eric Stach's Studio 123, 2003
+![Baku performing at Eric Stach's Studio123](/images/action/atEricStachStudio.png)
+![Baku performing at Eric Stach's Studio123](/images/action/atEricStachsWithBaku.jpg)
+![Baku performing at Eric Stach's Studio123](/images/action/bakuAtEricStachs.jpg)
 
 ### Baku in the BOF Shelter, London, Ontario
 ![Warren in BOF Shelter](/images/action/inTheBOFShelter.jpg)
