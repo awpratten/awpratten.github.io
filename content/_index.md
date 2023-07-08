@@ -2,7 +2,7 @@
 title: Home
 ---
 
-![Playing Red](/images/action/atEricStachsWithBaku.jpg)
+![In Action](/images/action/meWithMagicDaffodilsJuneConcertSeries.jpg)
 
 I am a musician and composer. I am interested in creating music that apply textures, guitar effects, loops, found sounds, and accidental sounds.  While I am primarily a guitarist, I do dabble with other instruments such as double bass, my home made cajon, and piano.   I also do some music programming.
 
