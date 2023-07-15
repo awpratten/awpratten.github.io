@@ -4,7 +4,7 @@ title: Home
 
 ![In Action](/images/action/meWithMagicDaffodilsJuneConcertSeries.jpg)
 
-I am a musician and composer. I am interested in creating music that apply textures, guitar effects, loops, found sounds, and accidental sounds.  While I am primarily a guitarist, I do dabble with other instruments such as double bass, my home made cajon, and piano.   I also do some music programming.
+I am a musician and composer. I am interested in creating music that apply textures, guitar effects, loops, found sounds, and accidental sounds.  While I am primarily a guitarist, I do dabble with other instruments such as double bass, my home made Cajon, and piano.   I also do some music programming.
 
 I have a sound, a tone, a music in my head that I am trying to express.  I know this isn't unique.  Most creative musicians will say the same thing.  
 

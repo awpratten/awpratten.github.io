@@ -24,7 +24,7 @@ title: Media
 
 
 
-### Jamming with 6Heads, 3 Stoogies, and my son Evan at the Forest City Gallery - 2011/07/10
+### Jamming with 6Heads, 3 Stooges, and my son Evan at the Forest City Gallery - 2011/07/10
 ![With Evan, 3 Stoogies, and 6 Heads](/images/action/withEvanAnd3stoogiesAnd6heads.jpg)
 ![With Evan, 3 Stoogies, and 6 Heads](/images/action/withEvanAnd3stoogiesAnd6heads2.jpg)
 

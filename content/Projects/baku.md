@@ -37,7 +37,7 @@ Baku performed at Forest City Gallery, Call the Office, and Eric Stach's Studio 
 
 ## Other notables
 
-Baku was interviewed and filmed as part of the documentary ["What About Me: The Rise of the Nihilist Spasm Band"](https://www.imdb.com/title/tt0266040/) by Zev Asher.   The documentary also used some of Baku's music for some of the intersitial scens.
+Baku was interviewed and filmed as part of the documentary ["What About Me: The Rise of the Nihilist Spasm Band"](https://www.imdb.com/title/tt0266040/) by Zev Asher.   The documentary also used some of Baku's music for some of the interstitial scenes.
 
 ## Music
 

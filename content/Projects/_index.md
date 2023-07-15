@@ -34,10 +34,10 @@ My long running collaboration with Mark Favro.  Primarily active from 2006 until
 ### Baku (1986 to 1988 and 1996 to 2004)
 Baku had two manifestations.   In the mid 80's I worked with my friend Owen Curnoe to produce ambient, soundtrack music for his videos and movies.   Largely inspired by the Blade Runner soundtrack by Vangelis.
 
-In 1996, the second manifestation of Baku with Owen Curnoe and Mark Favro.  Our music was electronic, experimental, ambient, industrial.  You can read more about Baku [here](/Projects/baku)
+In 1996, the second manifestation of Baku with Owen Curnoe and Mark Favro.  Our music was electronic, experimental, ambient, and industrial.  You can read more about Baku [here](/Projects/baku)
 
 ### Bits of Food (1982 to 1985)
-My first band.  Sort of a proto-punk/industrial/noise band that played locally with in a community of similar bands.  Heavily influenced by second wave punk, industrial musics, Krut Rock and noise bands especially our dad's band <a href="http://www.nonsb.ca" target="_blank">The Nihilist Spasm Band</a>
+My first band.  Sort of a proto-punk/industrial/noise band that played locally with in a community of similar bands.  Heavily influenced by second wave punk, industrial music, Kraut Rock and noise bands especially our dad's band <a href="http://www.nonsb.ca" target="_blank">The Nihilist Spasm Band</a>
 
 More information on [Bits of Food](/Projects/bitsoffood).
 

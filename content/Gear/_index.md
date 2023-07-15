@@ -19,7 +19,7 @@ One day while walking home from high school I stopped in the London Guitar Shopp
 
 
 ### Lynn
-I remember distinctly watching the Woodstock movie when I was around 14 and being completely blown away by Jimi Hendrix's performance.  One the stage he played an olympic white Fender Stratocaster with a maple neck.  That guitar was the inspiration behind "String Thing #2" and honestly probably propelled me into the life of guitar playing ever since.  Strats were it.  I never got myself a Strat either because of expense or what have you. When I was 37 I was loaned the book "The Stratocaster Chronicles" which I read cover to cover.  It completely renewed my love of Strats.  My wife listened as I talked in detail about the guitars and on my 40th birthday she and my son presented me with my own Strat.  An American Series Fender Stratocaster with olympic white body and a maple neck.  I named the guitar "Lynn" which is my wife's middle name.  This guitar has been my primary guitar ever since. 
+I remember distinctly watching the Woodstock movie when I was around 14 and being completely blown away by Jimi Hendrix's performance.  One the stage he played an Olympic white Fender Stratocaster with a maple neck.  That guitar was the inspiration behind "String Thing #2" and honestly probably propelled me into the life of guitar playing ever since.  Strats were it.  I never got myself a Strat either because of expense or what have you. When I was 37 I was loaned the book "The Stratocaster Chronicles" which I read cover to cover.  It completely renewed my love of Strats.  My wife listened as I talked in detail about the guitars and on my 40th birthday she and my son presented me with my own Strat.  An American Series Fender Stratocaster with Olympic white body and a maple neck.  I named the guitar "Lynn" which is my wife's middle name.  This guitar has been my primary guitar ever since. 
 
 ![Lynn - Fender American Series Stratocaster](/images/gear/lynn.jpg)
 
@@ -39,10 +39,10 @@ I have since updated this guitar to be strung as a baritone (A to A) which reall
 * 22 frets
 * 28 1/2 inches from nut to bridge.  
 * brass nut
-* t-bar re-enforced neck
+* T-bar re-enforced neck
 * two piece guitar made from white oak 
 * maple fret board
-* 3 single coil fender strat style pickups wired with "full blender" circuit 
+* 3 single coil Fender Strat style pickups wired with "full blender" circuit 
 
 ## Amplifiers
 
@@ -118,7 +118,7 @@ See baritone guitar above
 
 ### String Thing #3
 
-This guitar was my main guitar in Bits Of Food.  It was a good size for me and was lighter in weight partly in relation to the weight of the earlier guitars..  The two humbucking pickups provided a good solid sound and it had a built in compressor for even more boost. 
+This guitar was my main guitar in Bits Of Food.  It was a good size for me and was lighter in weight partly in relation to the weight of the earlier guitars.  The two humbucking pickups provided a good solid sound and it had a built in compressor for even more boost. 
 
 ![String Thing #3](/images/gear/stringThing3Front.jpg)
 ![String Thing #3](/images/gear/stringThing3Back.jpg)
@@ -130,7 +130,7 @@ This guitar was my main guitar in Bits Of Food.  It was a good size for me and w
 * 22 frets 25 inches from nut to bridge. Smaller to address the neck length problems from Guitar 1
 * Neck taken from a cannibalized cheap commercial guitar
 * Laminated body with pieces of oak, mahogany and some other woods
-* One PAF style humbucking pickup at the neck position and one Lawerence pickup at bridge.
+* One PAF style humbucking pickup at the neck position and one Lawrence pickup at bridge.
 * Built in compression electronics
 
 ### String Thing #4
@@ -158,10 +158,10 @@ I can't really remember the origin of this guitar.  I believe actually it was mo
 
 ### Roland Cube 30x
 
-A digital modeler.  I seriously considered either this or the Roland Cube 60 but ultimately decided I just didn't need the power.  The 30x suits me fine.  I prefer using the JC Clean, Black Panel, and Tweed models.   I mostly have been using this platform for recording with NwnS as it outputs a good line level signal that can be used into the mixer/recorder.
+A digital modeller.  I seriously considered either this or the Roland Cube 60 but ultimately decided I just didn't need the power.  The 30x suits me fine.  I prefer using the JC Clean, Black Panel, and Tweed models.   I mostly used this platform for recording with Name With No Sound as it outputs a good line level signal that can be used into the mixer/recorder.
 
 ### ZT Lunchbox
-When I saw this thing I knew I had to have it.  If I was to design an amplifier this would probably have been it.  Small, clean, loud with nothing extra.  it can be used standalone or as a head.   I have used it a number of times for practice with NwnS and performed with it.  It is a perfect clean  platform for my pedals.   I am on a 3rd generation of Lunchbox.  The 1st gen box I had originally had a lot of hiss.  I contacted the designer at ZT and he agreed to send me a newer one.
+When I saw this thing I knew I had to have it.  If I was to design an amplifier this would probably have been it.  Small, clean, loud with nothing extra.  It can be used standalone or as a head.   I have used it a number of times for practice with Name With No Sound and performed with it.  It is a perfect clean  platform for my pedals.   I am on a 3rd generation of Lunchbox.  The 1st gen box I had originally had a lot of hiss.  I contacted the designer at ZT and he agreed to send me a newer one.
 
 ### Peavey Special 130
 
