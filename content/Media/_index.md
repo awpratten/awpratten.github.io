@@ -2,6 +2,9 @@
 title: Media
 ---
 
+### Magic Daffodils at TAP Centre for Creativity, August 17
+![Magic Daffodils at TAP Centre for Creativity Poster](/images/posters/magic_daffodils_at_tap_poster.png)
+
 ### Magic Daffodils performing at June Concert Series, Bernie's, June 30, 2023
 ![Magic Daffodils at Bernie's studio - Full Band](/images/action/magicDaffodils_juneConcertSeries_atBernies1.jpg)
 ![Magic Daffodils at Bernie's studio - me and Bernie](/images/action/magicDaffodils_juneConcertSeries_atBernies2.jpg)
@@ -16,11 +19,15 @@ title: Media
 ![Magic Daffodils at Alex's Farm - Warren and Bernie](/images/action/withBernieMagicDaffodilsAtAlexFarm.jpg)
 ![Magic Daffodils at Alex's Farm](/images/action/magicDaffodilsAtAlexFarm.JPG)
 
+### Name With No Sound @ Studio 105
+![Name With No Sounds at Studio 105](/images/poster/nwnsPosterStudio123.jpg)
 
 ### Name With No Sound @ The Forest City Gallery December 12, 2009
-![Name With No Sounds at The Forest City Gallery](/images/action/nwnsAtForestCityGallery1.jpg)
-![Name With No Sounds at The Forest City Gallery](/images/action/nwnsAtForestCityGallery2.jpg)
-![Name With No Sounds at The Forest City Gallery](/images/action/nwnsAtForestCityGallery3.jpg)
+![Name With No Sounds at The Forest City Gallery](/images/poster/nwnsPosterFCG.jpg)
+![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery1.jpg)
+![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery2.jpg)
+![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery3.jpg)
+
 
 
 
@@ -31,10 +38,10 @@ title: Media
 ### Performing at the Hugh McIntyre Memorial Jam, Decent Club, London, Ontario, 2005
 ![Playing with Aya, Jojo, and John Clement](/images/action/hughMemorialJamatDecentClub.jpg)
 
-### Baku at Eric Stach's Studio 123, 2003
-![Baku performing at Eric Stach's Studio123](/images/action/atEricStachStudio.png)
-![Baku performing at Eric Stach's Studio123](/images/action/atEricStachsWithBaku.jpg)
-![Baku performing at Eric Stach's Studio123](/images/action/bakuAtEricStachs.jpg)
+### Baku at Eric Stach's Studio 105, 2003
+![Baku performing at Eric Stach's Studio105](/images/action/atEricStachStudio.png)
+![Baku performing at Eric Stach's Studio105](/images/action/atEricStachsWithBaku.jpg)
+![Baku performing at Eric Stach's Studio105](/images/action/bakuAtEricStachs.jpg)
 
 ### Baku in the BOF Shelter, London, Ontario
 ![Warren in BOF Shelter](/images/action/inTheBOFShelter.jpg)
@@ -60,3 +67,6 @@ Night performance in the pouring rain
 ![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall1.png)
 ![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall2.png)
 ![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall3.png)
+
+### Bits of Food Promotional Posters
+![BOF at The Forest City Gallery](/images/poster/bofPosterFCG.jpg)
