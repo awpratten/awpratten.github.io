@@ -4,6 +4,8 @@ title: Media
 
 ### Magic Daffodils at TAP Centre for Creativity, August 17
 ![Magic Daffodils at TAP Centre for Creativity Poster](/images/posters/magic_daffodils_at_tap_poster.png)
+![Magic Daffodils at TAP Centre for Creativity ](/images/action/magicDaffodilsAtTAP.jpg)
+![Magic Daffodils at TAP Centre for Creativity Poster](/images/action/meAtTAP.jpg)
 
 ### Magic Daffodils performing at June Concert Series, Bernie's, June 30, 2023
 ![Magic Daffodils at Bernie's studio - Full Band](/images/action/magicDaffodils_juneConcertSeries_atBernies1.jpg)
@@ -23,7 +25,7 @@ title: Media
 ![Name With No Sounds at Studio 105](/images/posters/nwnsPosterStudio123.jpg)
 
 ### Name With No Sound @ The Forest City Gallery December 12, 2009
-![Name With No Sounds at The Forest City Gallery](/images/posters/nwnsPosterFCG.jpg)
+![Name With No Sound at The Forest City Gallery](/images/posters/nwnsPosterFCG.jpg)
 ![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery1.jpg)
 ![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery2.jpg)
 ![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery3.jpg)
@@ -32,8 +34,8 @@ title: Media
 
 
 ### Jamming with 6Heads, 3 Stooges, and my son Evan at the Forest City Gallery - 2011/07/10
-![With Evan, 3 Stoogies, and 6 Heads](/images/action/withEvanAnd3stoogiesAnd6heads.jpg)
-![With Evan, 3 Stoogies, and 6 Heads](/images/action/withEvanAnd3stoogiesAnd6heads2.jpg)
+![With Evan, 3 Stooges, and 6 Heads](/images/action/withEvanAnd3stoogiesAnd6heads.jpg)
+![With Evan, 3 Stooges, and 6 Heads](/images/action/withEvanAnd3stoogiesAnd6heads2.jpg)
 
 ### Performing at the Hugh McIntyre Memorial Jam, Decent Club, London, Ontario, 2005
 ![Playing with Aya, Jojo, and John Clement](/images/action/hughMemorialJamatDecentClub.jpg)
