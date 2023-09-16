@@ -2,6 +2,7 @@
 title: My Discography
 ---
 
+{{ discog_entry(title="Warren Pratten - Lunar Time", pub_date="2023", spotify_embed="/track/0vlSR2M9BSQZnly8JN10Si", single=true) }}
 {{ discog_entry(title="Evan Pratten & Warren Pratten - Something Cozy", pub_date="2023", spotify_embed="/track/5BbBld3msccUfSboPoX8Lg", single=true) }}
 {{ discog_entry(title="Warren Pratten - Life is a Mosaic", pub_date="2023", spotify_embed="/album/6T9tmNaQ0B2oQqKRLvwVpn") }}
 {{ discog_entry(title="Evan Pratten & Warren Pratten - Deserted Streets (Remix)", pub_date="2022", spotify_embed="/track/2ggJaCyAKkKtSMPhM2phJ5", single=true) }}
