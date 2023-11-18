@@ -2,14 +2,16 @@
 title: Magic Daffodils
 ---
 
+![Magic Daffodils](/images/posters/magic_daffodils_poster.png)
+
 # Members:
 
 * Warren Pratten - Guitar
-* Cailen Dye - Bass & FX
-* Bernie Koenig - Drums & Vibes
-* Richard Moule- Synthesizers & Electronics 
-* Art Pratten - Pratt-a-various
-* Alex Schmoll - Synths & Electronics
+* [Cailen Dye](https://soundcloud.com/cailendye) - Bass & FX
+* [Bernie Koenig](https://berniekoenig.bandcamp.com/music) - Drums & Vibes
+* [Richard Moule](https://gesumm.bandcamp.com/music) - Synthesizers & Electronics 
+* [Art Pratten](http://www.nonsb.ca/) - Pratt-a-various
+* [Alex Schmoll](https://vimeo.com/occasionaljake) - Synths & Electronics
 
 Recently, I’ve been playing with a group that calls themselves the **Magic Daffodils**.  This is a casual group that is playing what I’d describe as free ambient-noise.  The group includes drums, bass, electric violin, synthesizers and samples. 
 
