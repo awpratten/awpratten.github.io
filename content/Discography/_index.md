@@ -3,7 +3,7 @@ title: My Discography
 ---
 
 
-
+{{ discog_entry(title="Alex Schmoll & Warren Pratten - Duet 2023-11-18", pub_date="2023", bandcamp_embed_single="3052311404") }}
 {{ discog_entry(title="Warren Pratten - Lunar Time", pub_date="2023", spotify_embed="/album/0vlSR2M9BSQZnly8JN10Si", single=true) }}
 {{ discog_entry(title="Evan Pratten & Warren Pratten - Something Cozy", pub_date="2023", spotify_embed="/track/5BbBld3msccUfSboPoX8Lg", single=true) }}
 {{ discog_entry(title="Warren Pratten - Life is a Mosaic", pub_date="2023", spotify_embed="/album/6T9tmNaQ0B2oQqKRLvwVpn") }}
