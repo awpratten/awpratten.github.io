@@ -8,9 +8,6 @@ title: Media
 
 ### Magic Daffodils at TAP Centre for Creativity, August 17
 ![Magic Daffodils at TAP Centre for Creativity Poster](/images/posters/magic_daffodils_at_tap_poster.png)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPbLpFJQzr4?si=y_ZrOL_YLtNfJK9S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ![Magic Daffodils at TAP Centre for Creativity ](/images/action/magicDaffodilsAtTAP.jpg)
 ![Magic Daffodils at TAP Centre for Creativity Poster](/images/action/meAtTAP.jpg)
 
