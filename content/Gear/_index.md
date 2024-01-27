@@ -12,7 +12,7 @@ I am not really a gear hound.  I like to keep things simple.
 ## Guitars
 
 ### Red
-One day while walking home from high school I stopped in the London Guitar Shoppe and saw a guitar I absolutely fell in love with.  A used Yamaha SJ-550.  This was around 1986.  I told my dad about the guitar.  I believe the next day we went up and he bought it for me.  This guitar has been with me ever since and I'll never part with it because of the sentimental value it holds.  I used Red all the way through [Baku](/content/Projects/baku).    It is a Tele style guitar with a fixed bridge.  It has two tap-able humbucking pickups.
+One day while walking home from high school I stopped in the London Guitar Shoppe and saw a guitar I absolutely fell in love with.  A used Yamaha SJ-550.  This was around 1986.  I told my dad about the guitar.  I believe the next day we went up and he bought it for me.  This guitar has been with me ever since and I'll never part with it because of the sentimental value it holds.  I used Red all the way through [Baku](/Projects/baku).    It is a Tele style guitar with a fixed bridge.  It has two tap-able humbucking pickups.
 
 ![Red - Yahama SJ-550 HM](/images/gear/red.jpg)
 
@@ -54,6 +54,8 @@ What can I say? I am a Princeton Man.  This amp is the sound that I hear in my h
 
 ## Pedal Board
 
+![Pedal Board](/images/gear/pedalboardplus.jpg)
+
 I like having a variety of sounds available but I also appreciate a board that is simple enough for me to carry to a gig.   This is my "do everything" board.   I use it to record, play at home and play out.
 
 ### Line 6 M9
@@ -81,7 +83,7 @@ I am definitely a reverb junky.   The Line 6 M9 has solid reverbs that I love an
 
 ### TC Electronic Ditto X4
 
-I also have the original Ditto.  Much of my own recordings start from loops and I like the ability to have two independent loops.  I used to bring this along for working with [Name With No Sound](/content/Projects/namewithnosound) but with [Magic Daffodils](/content/Projects/magicdaffodils) there is already a lot of sound so adding loops would be too much.
+I also have the original Ditto.  Much of my own recordings start from loops and I like the ability to have two independent loops.  I used to bring this along for working with [Name With No Sound](/Projects/namewithnosound) but with [Magic Daffodils](/Projects/magicdaffodils) there is already a lot of sound so adding loops would be too much.
 
 ## Recording Gear
 
@@ -160,11 +162,11 @@ I can't really remember the origin of this guitar.  I believe actually it was mo
 
 ### Roland Cube 30x
 
-A digital modeller.  I prefer using the JC Clean, Black Panel, and Tweed models.   I mostly used this platform for recording with [Name With No Sound](/content/Projects/namewithnosound) as it outputs a good line level signal that can be used into the mixer/recorder.
+A digital modeller.  I prefer using the JC Clean, Black Panel, and Tweed models.   I mostly used this platform for recording with [Name With No Sound](/Projects/namewithnosound) as it outputs a good line level signal that can be used into the mixer/recorder.
 
 ### ZT Lunchbox
-When I saw this thing I knew I had to have it.  If I was to design an amplifier this would probably have been it.  Small, clean, loud with nothing extra.  It can be used standalone or as a head.   I have used it a number of times for practice with [Name With No Sound](/content/Projects/namewithnosound) and performed with it.  It is a perfect clean  platform for my pedals.   I am on a 3rd generation of Lunchbox.  The 1st gen box I had originally had a lot of hiss.  I contacted the designer at ZT and he agreed to send me a newer one.
+When I saw this thing I knew I had to have it.  If I was to design an amplifier this would probably have been it.  Small, clean, loud with nothing extra.  It can be used standalone or as a head.   I have used it a number of times for practice with [Name With No Sound](/Projects/namewithnosound) and performed with it.  It is a perfect clean  platform for my pedals.   I am on a 3rd generation of Lunchbox.  The 1st gen box I had originally had a lot of hiss.  I contacted the designer at ZT and he agreed to send me a newer one.
 
 ### Peavey Special 130
 
-Freakishly loud and heavy.  My dad and I split the cost of this thing back in the 80's.  I used it for almost all the [Bits Of Food](/content/Projects/bitsoffood) performances.  He used it in The Nihilist Spasm Band.  This thing is completely overkill for almost any venue.   
+Freakishly loud and heavy.  My dad and I split the cost of this thing back in the 80's.  I used it for almost all the [Bits Of Food](/Projects/bitsoffood) performances.  He used it in The Nihilist Spasm Band.  This thing is completely overkill for almost any venue.   
