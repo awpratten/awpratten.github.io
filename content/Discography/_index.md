@@ -2,7 +2,7 @@
 title: My Discography
 ---
 
-{{ discog_entry(title="Name With No Sound - Troubled Blacksmith", pub_date="2019", bandcamp_embed_single="2633716683") }}
+{{ discog_entry(title="Name With No Sound - Troubled Blacksmith", pub_date="2024", bandcamp_embed_single="2633716683") }}
 {{ discog_entry(title="Alex Schmoll & Warren Pratten - Duet 2023-11-18", pub_date="2023", bandcamp_embed_single="3052311404") }}
 {{ discog_entry(title="Warren Pratten - Lunar Time", pub_date="2023", spotify_embed="/album/0vlSR2M9BSQZnly8JN10Si", single=true) }}
 {{ discog_entry(title="Magic Daffodils - LIve at TAP (2023-08-17)", pub_date="2023", bandcamp_embed="1586324673" ) }}
