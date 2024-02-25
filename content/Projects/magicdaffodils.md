@@ -37,3 +37,7 @@ For a bit of fun Alex asked ChatGPT3 to provide a bio for the group.   This is w
 
 You can hear a little of what Magic Daffodils are all about here 
 * [Bandcamp](https://magicdaffodils.bandcamp.com/)
+
+
+![Magic Daffodils at Forest City Gallery Poster - 2024-03-01](/images/posters/magic_daffodils_at_fcg.png)
+![Magic Daffodils at TAP Centre for Creativity Poster - 2023-08-17](/images/posters/magic_daffodils_at_tap_poster.png)

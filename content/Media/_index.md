@@ -6,8 +6,8 @@ title: Media
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z9d62J18ylU?si=YC3Y8Z6KWBIkLQxp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-### Magic Daffodils at TAP Centre for Creativity, August 17
-![Magic Daffodils at TAP Centre for Creativity Poster](/images/posters/magic_daffodils_at_tap_poster.png)
+### Magic Daffodils at TAP Centre for Creativity, August 17, 2023
+
 ![Magic Daffodils at TAP Centre for Creativity ](/images/action/magicDaffodilsAtTAP.jpg)
 ![Magic Daffodils at TAP Centre for Creativity Poster](/images/action/meAtTAP.jpg)
 
@@ -25,17 +25,10 @@ title: Media
 ![Magic Daffodils at Alex's Farm - Warren and Bernie](/images/action/withBernieMagicDaffodilsAtAlexFarm.jpg)
 ![Magic Daffodils at Alex's Farm](/images/action/magicDaffodilsAtAlexFarm.JPG)
 
-### Name With No Sound @ Studio 105
-![Name With No Sounds at Studio 105](/images/posters/nwnsPosterStudio123.jpg)
-
 ### Name With No Sound @ The Forest City Gallery December 12, 2009
-![Name With No Sound at The Forest City Gallery](/images/posters/nwnsPosterFCG.jpg)
 ![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery1.jpg)
 ![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery2.jpg)
 ![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery3.jpg)
-
-
-
 
 ### Jamming with 6Heads, 3 Stooges, and my son Evan at the Forest City Gallery - 2011/07/10
 ![With Evan, 3 Stooges, and 6 Heads](/images/action/withEvanAnd3stoogiesAnd6heads.jpg)
@@ -74,5 +67,4 @@ Night performance in the pouring rain
 ![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall2.png)
 ![Bits Of Food at Stephen's Hall](/images/action/bofStStephenHall3.png)
 
-### Bits of Food Promotional Posters
-![BOF at The Forest City Gallery](/images/posters/bofPosterFCG.jpg)
+

@@ -32,3 +32,7 @@ Name with No Sound's music can be found on the following platforms:
  * [Spotify](https://open.spotify.com/artist/3N1BRguiHd7kYBFkryUDAJ)
  * [Apple Music](https://music.apple.com/ca/artist/name-with-no-sound/1438182483)
  * [Amazon Music](https://music.amazon.co.uk/artists/B093P92V9C/warren-pratten)
+
+
+ ![Name With No Sounds at Studio 105 - 2012-06-15](/images/posters/nwnsPosterStudio123.jpg)
+ ![Name With No Sound at The Forest City Gallery - 2009-12-12](/images/posters/nwnsPosterFCG.jpg)
