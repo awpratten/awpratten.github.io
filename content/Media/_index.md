@@ -1,6 +1,9 @@
 ---
 title: Media
 ---
+### Magic Daffodils at CHRW Radio Live to Air - April 9, 2024
+![Magic Daffodils at CHRW Radio Live to Air - Me](/images/action/meAtCHRWshow.jpg)
+
 
 ### Magic Daffodils at Forest City Gallery - 2024-03-01
 ![Magic Daffodils at Forest City Gallery - Me, Alex, and Dad](/images/action/magicDaffodilsAtFCG1.jpg)
