@@ -1,9 +1,12 @@
 ---
 title: Media
 ---
+### Playing at Bernie's Summer Concert Series - Five Fridays from May 31 to June 28 
+![Summer Concert Series May 31 - Bernie, Shawn, and WWarren](/images/action/summerConcertSeriesMay31.jpg)
+![Summer Concert Series June 6- Bernie, Shawn, Ian, and WWarren](/images/action/summerConcertSeriesJune7.jpg)
+
 ### Magic Daffodils at CHRW Radio Live to Air - April 9, 2024
 ![Magic Daffodils at CHRW Radio Live to Air - Me](/images/action/MeAtCHRWshow.jpg)
-
 
 ### Magic Daffodils at Forest City Gallery - 2024-03-01
 ![Magic Daffodils at Forest City Gallery - Me, Alex, and Dad](/images/action/magicDaffodilsAtFCG1.jpg)
