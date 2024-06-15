@@ -2,8 +2,12 @@
 title: Media
 ---
 ### Playing at Bernie's Summer Concert Series - Five Fridays from May 31 to June 28 
+
+Bernie, Shawn, and Warren
 ![Summer Concert Series May 31 - Bernie, Shawn, and Warren](/images/action/summerConcertSeriesMay31.jpg)
+Bernie, Shawn, Ian, and Warren
 ![Summer Concert Series June 7 - Bernie, Shawn, Ian, and Warren](/images/action/summerConcertSeriesJune7.jpg)
+Bernie, Cailen, Keith, and Warren
 ![Summer Concert Series June 14 - Bernie, Cailen, Keith, and Warren](/images/action/summerConcertSeriesJune14.jpg)
 
 ### Magic Daffodils at CHRW Radio Live to Air - April 9, 2024
