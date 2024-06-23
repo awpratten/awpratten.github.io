@@ -1,7 +1,7 @@
 ---
 title: Media
 ---
-### Playing at Bernie's Summer Concert Series - Five Fridays from May 31 to June 28 
+### Playing at Bernie's Summer Concert Series - Five Fridays from May 31 to June 28, 2024
 
 Bernie Koenig (drums), Shawn Monroe (bass), and Warren (guitar)
 ![Summer Concert Series May 31 - Bernie, Shawn, and Warren](/images/action/summerConcertSeriesMay31.jpg)
@@ -9,6 +9,8 @@ Bernie Koenig (vibes), Shawn Monroe (bass), Ian McKay (drums), and Warren (guita
 ![Summer Concert Series June 7 - Bernie, Shawn, Ian, and Warren](/images/action/summerConcertSeriesJune7.jpg)
 Bernie Koenig (drums), Cailen Dye (bass), Keith Dunklee (trumpet), and Warren (guitar)
 ![Summer Concert Series June 14 - Bernie, Cailen, Keith, and Warren](/images/action/summerConcertSeriesJune14.jpg)
+Bernie Koenig (drums), Kevin Hogg (bass), Derek Martin (violin), and Warren (guitar)
+![Summer Concert Series June 21 - Bernie, Kevin, Derek and Warren](/images/action/summerConcertSeriesJune21.jpg)
 
 ### Magic Daffodils at CHRW Radio Live to Air - April 9, 2024
 ![Magic Daffodils at CHRW Radio Live to Air - Me](/images/action/MeAtCHRWshow.jpg)
