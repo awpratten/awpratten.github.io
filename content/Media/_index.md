@@ -18,7 +18,7 @@ title: Media
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R-lfK8QIQYk?si=tNQCC9IPJHCw6nxd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Bernie Koenig (drums), Kevin Hogg (bass), Jayne Hysen (keybouards), and Warren (guitar)
-![Summer Concert Series June 28 - Bernie, Kevin, Jayne, and Warren](/images/action/summerConcertSeriesJune28.JPG)
+![Summer Concert Series June 28 - Bernie, Kevin, Jayne, and Warren](/images/action/summerConcertSeriesJune28.jpg)
 
 
 
