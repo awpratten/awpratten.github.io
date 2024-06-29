@@ -3,22 +3,22 @@ title: Media
 ---
 ## Playing at Bernie's Summer Concert Series - Five Fridays from May 31 to June 28, 2024
 
-### Bernie Koenig (drums), Shawn Monroe (bass), and Warren (guitar)
-![Summer Concert Series May 31 - Bernie, Shawn, and Warren](/images/action/summerConcertSeriesMay31.jpg)
+### Bernie Koenig (drums), Kevin Hogg (bass), Jayne Hysen (keybouards), and Warren (guitar) - June 28
+![Summer Concert Series June 28 - Bernie, Kevin, Jayne, and Warren](/images/action/summerConcertSeriesJune28.jpg)
 
-### Bernie Koenig (vibes), Shawn Monroe (bass), Ian McKay (drums), and Warren (guitar)
-![Summer Concert Series June 7 - Bernie, Shawn, Ian, and Warren](/images/action/summerConcertSeriesJune7.jpg)
-
-### Bernie Koenig (drums), Cailen Dye (bass), Keith Dunklee (trumpet), and Warren (guitar)
-![Summer Concert Series June 14 - Bernie, Cailen, Keith, and Warren](/images/action/summerConcertSeriesJune14.jpg)
-
-### Bernie Koenig (drums), Kevin Hogg (bass), Derek Martin (violin), and Warren (guitar)
+### Bernie Koenig (drums), Kevin Hogg (bass), Derek Martin (violin), and Warren (guitar) - June 21
 ![Summer Concert Series June 21 - Bernie, Kevin, Derek, and Warren](/images/action/summerConcertSeriesJune21.jpg)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GFAbSB79Ln0?si=Oqa7sbK9yNF3DB5j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R-lfK8QIQYk?si=tNQCC9IPJHCw6nxd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Bernie Koenig (drums), Kevin Hogg (bass), Jayne Hysen (keybouards), and Warren (guitar)
-![Summer Concert Series June 28 - Bernie, Kevin, Jayne, and Warren](/images/action/summerConcertSeriesJune28.jpg)
+### Bernie Koenig (drums), Cailen Dye (bass), Keith Dunklee (trumpet), and Warren (guitar) - June 14
+![Summer Concert Series June 14 - Bernie, Cailen, Keith, and Warren](/images/action/summerConcertSeriesJune14.jpg)
+
+### Bernie Koenig (vibes), Shawn Monroe (bass), Ian McKay (drums), and Warren (guitar) - June 7
+![Summer Concert Series June 7 - Bernie, Shawn, Ian, and Warren](/images/action/summerConcertSeriesJune7.jpg)
+
+### Bernie Koenig (drums), Shawn Monroe (bass), and Warren (guitar) - May 31
+![Summer Concert Series May 31 - Bernie, Shawn, and Warren](/images/action/summerConcertSeriesMay31.jpg)
 
 
 
