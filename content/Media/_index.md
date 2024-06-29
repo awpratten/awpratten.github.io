@@ -10,7 +10,13 @@ Bernie Koenig (vibes), Shawn Monroe (bass), Ian McKay (drums), and Warren (guita
 Bernie Koenig (drums), Cailen Dye (bass), Keith Dunklee (trumpet), and Warren (guitar)
 ![Summer Concert Series June 14 - Bernie, Cailen, Keith, and Warren](/images/action/summerConcertSeriesJune14.jpg)
 Bernie Koenig (drums), Kevin Hogg (bass), Derek Martin (violin), and Warren (guitar)
-![Summer Concert Series June 21 - Bernie, Kevin, Derek and Warren](/images/action/summerConcertSeriesJune21.jpg)
+![Summer Concert Series June 21 - Bernie, Kevin, Derek, and Warren](/images/action/summerConcertSeriesJune21.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GFAbSB79Ln0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=R-lfK8QIQYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Bernie Koenig (drums), Kevin Hogg (bass), Jayne Hysen (keybouards), and Warren (guitar)
+![Summer Concert Series June 28 - Bernie, Kevin, Jayne, and Warren](/images/action/summerConcertSeriesJune28.jpg)
+
+
 
 ### Magic Daffodils at CHRW Radio Live to Air - April 9, 2024
 ![Magic Daffodils at CHRW Radio Live to Air - Me](/images/action/MeAtCHRWshow.jpg)
