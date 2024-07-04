@@ -1,10 +1,13 @@
 ---
 title: Media
 ---
-## Playing at Bernie's Summer Concert Series - Five Fridays from May 31 to June 28, 2024
+## Playing at Bernie's (Mostly) Free Jazz Summer Concert Series - Five Fridays from May 31 to June 28, 2024
 
 ### Bernie Koenig (drums), Kevin Hogg (bass), Jayne Hysen (keybouards), and Warren (guitar) - June 28
 ![Summer Concert Series June 28 - Bernie, Kevin, Jayne, and Warren](/images/action/summerConcertSeriesJune28.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HWKQliRcG1w?si=qxwwnTFqnSN46iFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Qge4Yja4v0?si=Ajt_YWPhBPfIwlMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Bernie Koenig (drums), Kevin Hogg (bass), Derek Martin (violin), and Warren (guitar) - June 21
 ![Summer Concert Series June 21 - Bernie, Kevin, Derek, and Warren](/images/action/summerConcertSeriesJune21.jpg)
