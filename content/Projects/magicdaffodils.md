@@ -39,10 +39,10 @@ You can hear a little of what Magic Daffodils are all about here
 * [Bandcamp](https://magicdaffodils.bandcamp.com/)
 
 The Magic Daffodils have played at
-* TAP Centre for Creativity - https://www.tapcreativity.org/
-* Forest City Gallery - https://www.forestcitygallery.com/
-* CHRW Radio Western - https://radiowestern.ca/
-* Electric Eclectics - https://electric-eclectics.com/
+* [TAP Centre for Creativity](https://www.tapcreativity.org/)
+* [Forest City Gallery](https://www.forestcitygallery.com/)
+* [CHRW Radio Western](https://radiowestern.ca/)
+* [Electric Eclectics](https://electric-eclectics.com/)
 
 
 ![Magic Daffodils at Forest City Gallery Poster - 2024-03-01](/images/posters/magic_daffodils_at_fcg.jpg)
