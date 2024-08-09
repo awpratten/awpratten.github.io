@@ -1,6 +1,12 @@
 ---
 title: Media
 ---
+
+## Magic Daffodils at Electric Eclectics August 2, 2024
+![Magic Daffodils at Electric Eclectics - Me front](/images/action/meAtEE20240802one.jpg)
+![Magic Daffodils at Electric Eclectics - Me sunset](/images/action/meAtEE20240802two.jpg)
+
+
 ## Playing at Bernie's (Mostly) Free Jazz Summer Concert Series - Five Fridays from May 31 to June 28, 2024
 
 ### Bernie Koenig (drums), Kevin Hogg (bass), Jayne Hysen (keybouards), and Warren (guitar) - June 28
@@ -28,11 +34,11 @@ title: Media
 ## Magic Daffodils at CHRW Radio Live to Air - April 9, 2024
 ![Magic Daffodils at CHRW Radio Live to Air - Me](/images/action/MeAtCHRWshow.jpg)
 
-## Magic Daffodils at Forest City Gallery - 2024-03-01
+## Magic Daffodils at Forest City Gallery - March 1, 2024
 ![Magic Daffodils at Forest City Gallery - Me, Alex, and Dad](/images/action/magicDaffodilsAtFCG1.jpg)
 ![Magic Daffodils at Forest City Gallery - Me](/images/action/meWithMagicDaffodilsAtFCG.jpeg)
 
-## Moment by Moment 2023-09-16
+## Moment by Moment September 16, 2023
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z9d62J18ylU?si=YC3Y8Z6KWBIkLQxp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Magic Daffodils at TAP Centre for Creativity, August 17, 2023
