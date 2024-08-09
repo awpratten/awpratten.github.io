@@ -11,4 +11,4 @@ Alex and I met through the [Magic Daffodils](/Projects/magicdaffodils).   I thin
 
 We have decided to release our music under the project name *Trout Fish Derby* which is a crazy name that has nothing to do with anything.
 
-You can hear our music on Bandcamp.
+You can hear our music on  << link to come >>.
