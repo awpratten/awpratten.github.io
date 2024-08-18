@@ -29,7 +29,6 @@ Trout Fish Derby is the project name for some ambient music I've been doing with
 
 More [here](/Projects/troutFishDerby)
 
-
 ### Pop Collaboration (2021)
 
 This was a purely fortuitous collaboration that ended up being quite rewarding and ended up with the release of a pop song.  You can read the story [here](/Projects/popsong)
