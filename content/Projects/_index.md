@@ -27,7 +27,7 @@ A little bit about some of the collaborations with my son Evan can be found [her
 
 Trout Fish Derby is the project name for some ambient music I've been doing with Alex Schmoll.   
 
-More [here](/Projects/troutFishDerby)
+More [here](/Projects/troutfishderby)
 
 ### Pop Collaboration (2021)
 
