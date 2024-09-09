@@ -2,7 +2,14 @@
 title: Media
 ---
 
+## Magic Daffodils and Friends at TAP Centre for Creativity - September 6, 2024
+![Magic Daffodils and Friends at TAP](/images/action/meAtTAPmagicDaffodilsAndFriends1.jpg)
+![Magic Daffodils and Friends at TAP](/images/action/meAtTAPmagicDaffodilsAndFriends2.jpg)
+![Magic Daffodils and Friends at TAP](/images/action/meAtTAPmagicDaffodilsAndFriends3.jpg)
+![Magic Daffodils and Friends at TAP](/images/action/meAtTAPmagicDaffodilsAndFriends4.jpg)
+
 ## Magic Daffodils at Electric Eclectics August 2, 2024
+![Magic Daffodils at Electric Eclectics](/images/action/magicDaffodilsAtElectricEclectic20240802.jpg)
 ![Magic Daffodils at Electric Eclectics - Me front](/images/action/meAtEE20240802one.jpg)
 ![Magic Daffodils at Electric Eclectics - Me sunset](/images/action/meAtEE20240802two.jpg)
 

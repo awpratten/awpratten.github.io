@@ -31,7 +31,7 @@ More [here](/Projects/troutfishderby)
 
 ### (Mostly) Free Jazz Concert Series (2024)
 
-I was invited to be the guitarist for a series of five Friday "(Mostly) Free Jazz" concert series.   The set of musicians rotated each week with the only consistent performers being myself and Bernie Koenig (drums and vibes).  Other musicians included Shawn Monroe (bass), Ian McKay (drums), Keith Dunklee (trumpet), Derek Martin (violin), Kevin Hogg (bass), and Jayne Hysen (piano).   The series ran from May 31 to June 28. It was a tremendous opportunity to try playing in a format that was different for me.   I do a lot of improvised music but not in a typical "jazz" configuration.
+I was invited to be the guitarist for a series of five Friday "(Mostly) Free Jazz" concert series.   The set of musicians rotated each week with the only consistent performers being myself and Bernie Koenig (drums and vibes).  Other musicians included Shawn Monroe (bass), Ian McKay (drums), Keith Dunklee (trumpet), Derek Martin (violin), Kevin Hogg (bass), and Jayne Hysen (piano).   The series ran from May 31 to June 28. It was a tremendous opportunity to try playing in a format that was different for me.   I do a lot of improvised music but not in a typical "jazz" configuration.  
 
 ### Pop Collaboration (2021)
 
