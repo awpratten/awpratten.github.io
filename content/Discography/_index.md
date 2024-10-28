@@ -2,6 +2,9 @@
 title: My Discography
 ---
 
+
+{{ discog_entry(title="Bernie Koenig & Warren Pratten - Duet 2024-10-18", pub_date="2024", bandcamp_embed_single="3114575314") }}
+{{ discog_entry(title="Bernie Koenig, Keith Dunklee & Warren Pratten - Duet 2024-10-18", pub_date="2023", bandcamp_embed_single="863001672") }}
 {{ discog_entry(title="Trout Fish Derby - And The Good Guys Will Win", pub_date="2024", bandcamp_embed="3478621892" ) }}
 {{ discog_entry(title="Name With No Sound - Troubled Blacksmith", pub_date="2024", bandcamp_embed_single="2633716683") }}
 {{ discog_entry(title="Alex Schmoll & Warren Pratten - Duet 2023-11-18", pub_date="2023", bandcamp_embed_single="3052311404") }}
