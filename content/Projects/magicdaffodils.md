@@ -29,6 +29,8 @@ The Magic Daffodils have played at
 * [CHRW Radio Western](https://radiowestern.ca/)
 * [Electric Eclectics](https://electric-eclectics.com/)
 
+![Magic Daffodils at TAP Centre for Creativity Poster for Mas Aya Coming and Going release - 2024-12-20](/images/posters/magicDaffodils_at_Tap_poster-2024-12-20.jpg) 
+
 ![Magic Daffodils and Friends at TAP Centre for Creativity Poster - 2024-09-06](/images/posters/magicDaffodils_and_friends_tap_poster.jpg)
 
 ![Magic Daffodils at Forest City Gallery Poster - 2024-03-01](/images/posters/magic_daffodils_at_fcg.jpg)

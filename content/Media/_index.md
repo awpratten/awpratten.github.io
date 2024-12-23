@@ -2,6 +2,10 @@
 title: Media
 ---
 
+## Magid Daffodils at TAP Centre for Creativity - Mas Aya "Coming and Going" Album Release Party -December 20, 2024
+![Magic Daffodils at TAP ](/images/action/magicDaffodilsAtTap20241220.JPG)
+![Magic Daffodils and Friends at TAP](/images/action/meAtTAPmagicDaffodils20241220.JPG)
+
 ## Magic Daffodils and Friends at TAP Centre for Creativity - September 6, 2024
 ![Magic Daffodils and Friends at TAP](/images/action/meAtTAPmagicDaffodilsAndFriends1.jpg)
 ![Magic Daffodils and Friends at TAP](/images/action/meAtTAPmagicDaffodilsAndFriends2.jpg)
