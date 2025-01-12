@@ -14,9 +14,8 @@
 }
 
 .navbar-text {
-  // color: var(--bs-nav-link-color);
-  color: whitesmoke;
-  &:hover {
+  color: var(--bs-nav-link-color);
+    &:hover {
     color: var(--bs-navbar-hover-color);
   }
 }
@@ -27,5 +26,4 @@
 
 #navbar-brand {
   font-size: larger;
-  color: white;
 }
