@@ -13,9 +13,9 @@
    }
 }
 
-.navbar-text > a {
+.navbar-text {
   // color: var(--bs-nav-link-color);
-  color: whitesmoke
+  color: whitesmoke;
   &:hover {
     color: var(--bs-navbar-hover-color);
   }
