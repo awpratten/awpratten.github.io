@@ -14,10 +14,17 @@
 }
 
 .navbar-text {
-  color: var(--bs-nav-link-color);
-    &:hover {
-    color: var(--bs-navbar-hover-color);
+  a {
+    color: #26875e;
+    text-decoration: none;
   }
+  a:hover {
+    text-decoration: underline;
+  }
+  //color: var(--bs-nav-link-color);
+  //  &:hover {
+   // color: var(--bs-navbar-hover-color);
+  //}
 }
 
 #navbar-icons {
