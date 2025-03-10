@@ -1,7 +1,7 @@
 ---
 title: My Discography
 ---
-https://open.spotify.com/track/219t3GIdwyv7q5S0fln3pH?si=CihDkRW7QUG2qfDKf9E8QA
+
 
 {{ discog_entry(title="Magic Daffodils - Music for Romance Novels", pub_date="2025", bandcamp_embed="4211744834", publisher="Outlier Communications", cat_num="OCOMM14") }}
 {{ discog_entry(title="Bernie Koenig & Warren Pratten - Duet 2024-10-18", pub_date="2024", bandcamp_embed_single="3114575314") }}
