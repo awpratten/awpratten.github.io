@@ -1,16 +1,18 @@
 ---
 title: My Discography
 ---
-
+https://open.spotify.com/track/219t3GIdwyv7q5S0fln3pH?si=CihDkRW7QUG2qfDKf9E8QA
 
 {{ discog_entry(title="Magic Daffodils - Music for Romance Novels", pub_date="2025", bandcamp_embed="4211744834", publisher="Outlier Communications", cat_num="OCOMM14") }}
 {{ discog_entry(title="Bernie Koenig & Warren Pratten - Duet 2024-10-18", pub_date="2024", bandcamp_embed_single="3114575314") }}
-{{ discog_entry(title="Bernie Koenig, Keith Dunklee & Warren Pratten - Duet 2024-10-18", pub_date="2023", bandcamp_embed_single="863001672") }}
+{{ discog_entry(title="Bernie Koenig, Keith Dunklee & Warren Pratten - Trio 2024-10-18", pub_date="2024", bandcamp_embed_single="863001672") }}
 {{ discog_entry(title="Trout Fish Derby - And The Good Guys Will Win", pub_date="2024", bandcamp_embed="3478621892" ) }}
+{{ discog_entry(title="Warren Pratten - Fougou", pub_date="2024", spotify_embed="/album/4Jqw0rn8LHN9Nq9C5k973Q", single=true) }}
+{{ discog_entry(title="Warren Pratten - Who I Am", pub_date="2024", spotify_embed="/album/6rwjK2dumK8w7DR339tfJw", single=true) }}
 {{ discog_entry(title="Name With No Sound - Troubled Blacksmith", pub_date="2024", bandcamp_embed_single="2633716683") }}
 {{ discog_entry(title="Alex Schmoll & Warren Pratten - Duet 2023-11-18", pub_date="2023", bandcamp_embed_single="3052311404") }}
 {{ discog_entry(title="Warren Pratten - Lunar Time", pub_date="2023", spotify_embed="/album/0vlSR2M9BSQZnly8JN10Si", single=true) }}
-{{ discog_entry(title="Magic Daffodils - LIve at TAP (2023-08-17)", pub_date="2023", bandcamp_embed="1586324673" ) }}
+{{ discog_entry(title="Magic Daffodils - Live at TAP (2023-08-17)", pub_date="2023", bandcamp_embed="1586324673" ) }}
 {{ discog_entry(title="Evan Pratten & Warren Pratten - Something Cozy", pub_date="2023", spotify_embed="/track/5BbBld3msccUfSboPoX8Lg", single=true) }}
 {{ discog_entry(title="Warren Pratten - Life is a Mosaic", pub_date="2023", spotify_embed="/album/6T9tmNaQ0B2oQqKRLvwVpn") }}
 {{ discog_entry(title="Evan Pratten & Warren Pratten - Deserted Streets (Remix)", pub_date="2022", spotify_embed="/track/2ggJaCyAKkKtSMPhM2phJ5", single=true) }}
