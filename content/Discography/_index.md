@@ -2,7 +2,7 @@
 title: My Discography
 ---
 
-
+{{ discog_entry(title="Trout Fish Derby - Oracle of the Natural World", pub_date="2025", bandcamp_embed="2406451035") }}
 {{ discog_entry(title="Magic Daffodils - Music for Romance Novels", pub_date="2025", bandcamp_embed="4211744834", publisher="Outlier Communications", cat_num="OCOMM14") }}
 {{ discog_entry(title="Bernie Koenig & Warren Pratten - Duet 2024-10-18", pub_date="2024", bandcamp_embed_single="3114575314") }}
 {{ discog_entry(title="Bernie Koenig, Keith Dunklee & Warren Pratten - Trio 2024-10-18", pub_date="2024", bandcamp_embed_single="863001672") }}
