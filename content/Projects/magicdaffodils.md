@@ -29,7 +29,7 @@ The Magic Daffodils have played at
 * [CHRW Radio Western](https://radiowestern.ca/)
 * [Electric Eclectics](https://electric-eclectics.com/)
 
-![Magic Daffodils at TAP Centre for Creativity Poster with Arma Agharta and Carrot Cake Milkshake- 2025-06-30](/images/posters/magicDaffodils_at_Tap_poster-2025-06-28.jpg) 
+![Magic Daffodils at TAP Centre for Creativity Poster with Arma Agharta and Carrot Cake Milkshake- 2025-06-30](/images/posters/magicDaffodils_at_TAP_poster-2025-06-28.jpg) 
 
 ![Magic Daffodils at TAP Centre for Creativity Poster for Mas Aya Coming and Going release - 2024-12-20](/images/posters/magicDaffodils_at_Tap_poster-2024-12-20.jpg) 
 
