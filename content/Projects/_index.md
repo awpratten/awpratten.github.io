@@ -15,7 +15,7 @@ You can read more [here](/Projects/solo)
 
 ### Magic Daffodils (Current)
 
-I’ve been playing with a group that calls themselves the **Magic Daffodils**.  This is a casual group that is playing what I’d describe as ambient-noise.  The group includes drums, bass, electric violin, synthesizers and samples. 
+I’ve been playing with a group that calls themselves the **Magic Daffodils**.  This is a group that is playing what I’d describe as ambient-noise.  The group includes drums, bass, electric violin, synthesizers and samples. 
 
 You can read more [here](/Projects/magicdaffodils)
 
@@ -29,11 +29,12 @@ Trout Fish Derby is the project name for some ambient music I've been doing with
 
 More [here](/Projects/troutfishderby)
 
-### (Mostly) Free Jazz Concert Series (2024)
+### (Mostly) Free Jazz Concert Series (Current)
 
-I was invited to be the guitarist for a series of five Friday "(Mostly) Free Jazz" concert series.   The set of musicians rotated each week with the only consistent performers being myself and the host Bernie Koenig (drums and vibes).  Other musicians included Shawn Monroe (bass), Ian McKay (drums), Keith Dunklee (trumpet), Derek Martin (violin), Kevin Hogg (bass), Cailen Dye (bass), and Jayne Hysen (piano).   The series ran from May 31 to June 28. It was a tremendous opportunity to try playing in a format that was different for me.   I do a lot of improvised music but not in a typical "jazz" configuration. 
+I have been invited to be the guitarist for a series of "(Mostly) Free Jazz" concerts.   The set of musicians rotated each week with performers being myself and the host Bernie Koenig (drums and vibes).  Other musicians included Shawn Monroe (bass), Ian McKay (drums), Keith Dunklee (trumpet), Tim Glasgow (guitar), Derek Martin (violin), Kevin Hogg (bass), Cailen Dye (bass), and Jayne Hysen (piano).   The series ran from May 31 to June 28. It was a tremendous opportunity to try playing in a format that was different for me.   I do a lot of improvised music but not in a typical "jazz" configuration. 
 
-In October I was invited back to contribute 3 of the 4 Friday nights.   This round included Shawn Monroe, Keith Dunklee, Jayne Hysen, and of course the host Bernie Koenig.
+This series has run Friday nights June 2024, Friday nights October 2024, and Friday Nights June 2025.
+
 
 ### Pop Collaboration (2021)
 

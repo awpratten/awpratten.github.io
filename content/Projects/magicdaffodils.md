@@ -13,7 +13,7 @@ title: Magic Daffodils
 * [Art Pratten](http://www.nonsb.ca/) - Pratt-a-various
 * [Alex Schmoll](https://vimeo.com/occasionaljake) - Synths & Electronics
 
-Recently, I’ve been playing with a group that calls themselves the **Magic Daffodils**.  This is a group that is playing what I’d describe as free ambient-noise.  The group includes drums, bass, electric violin, synthesizers and samples. 
+Since early in the COVID lockdowns, I’ve been playing with a group that calls themselves the **Magic Daffodils**.  This is a group that is playing what I’d describe as free ambient-noise.  The group includes drums, bass, electric violin, synthesizers and samples.   All six members are veterans of the London music scene with backgrounds in the electronic, ambient, free jazz, and noise musics.
 
 
 I love to play music and tend towards playing improvised, unscripted music. I am fortunate to be able to play with this group fairly regularly. 
