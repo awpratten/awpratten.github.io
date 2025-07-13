@@ -2,7 +2,11 @@
 title: Media
 ---
 
-## Magid Daffodils at TAP Centre for Creativity - Mas Aya "Coming and Going" Album Release Party -December 20, 2024
+## Playing at Bernie's (Mostly) Free Jazz Summer Concert Series - Five Fridays from June 6 to June 27, 2024
+### Bernie Koenig (drums), Kevin Hogg (bass), Derek Martin (violin), and Warren (guitar) - June 13
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KcimRZOPntM?si=IL7mo20DukV7O4YJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Magic Daffodils at TAP Centre for Creativity - Mas Aya "Coming and Going" Album Release Party -December 20, 2024
 ![Magic Daffodils at TAP ](/images/action/magicDaffodilsAtTap20241220.JPG)
 ![Magic Daffodils and Friends at TAP](/images/action/meAtTAPmagicDaffodils20241220.JPG)
 
