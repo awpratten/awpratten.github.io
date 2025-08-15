@@ -2,6 +2,10 @@
 title: Media
 ---
 
+## "Cricket and the Bullfrogs" at RadioWestern - Beyond the Beyond - Live to Air - 2025-08-12
+### Richard Moule (synths, noises, and effects). Alex Schmoll (synths, beats, and effects), and Warren (guitar and effects)
+![Cricket and the Bullfrogs RadioWestern - Beyond the Beyond - 2025-08-12](/images/action/cricketAndTheBullfrogsCHRW20250812.jpg)
+
 ## Playing at Bernie's (Mostly) Free Jazz Summer Concert Series - Five Fridays from June 6 to June 27, 2024
 ### Bernie Koenig (drums), Kevin Hogg (bass), Derek Martin (violin), and Warren (guitar) - June 13
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KcimRZOPntM?si=IL7mo20DukV7O4YJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -46,8 +50,8 @@ title: Media
 
 
 
-## Magic Daffodils at CHRW Radio Live to Air - April 9, 2024
-![Magic Daffodils at CHRW Radio Live to Air - Me](/images/action/MeAtCHRWshow.jpg)
+## Magic Daffodils at RadioWestern - Beyond the Beyond - Live to Air - April 9, 2024
+![Magic Daffodils at RadioWestern Live to Air - Me](/images/action/MeAtCHRWshow.jpg)
 
 ## Magic Daffodils at Forest City Gallery - March 1, 2024
 ![Magic Daffodils at Forest City Gallery - Me, Alex, and Dad](/images/action/magicDaffodilsAtFCG1.jpg)
