@@ -3,7 +3,7 @@ title: Media
 ---
 
 ## Magic Daffodils Publicity Photo - 2025-06-28
-![Magic Daffodils Composit Photo ](/images/action/magicDaffodilsComposit.JPG)
+![Magic Daffodils Composite Photo ](/images/posters/magicDaffodilsComposite.JPG)
 
 _ Photo credit - Evan Pratten_ 
 
