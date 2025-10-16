@@ -30,7 +30,7 @@ The Magic Daffodils have played at
 * [Electric Eclectics](https://electric-eclectics.com/)
 * [High Street Resturaunt - By Delhi Gang](https://www.instagram.com/highstreetbydg/)
 
-| Date | Art | Links |
+| Date | Art | Artist Links |
 | :--- | :--: | :--- |
 | 2025-10-23 |  ![Magic Daffodils at High Street - By Delhi Gang with Jon Collin, Bank of America, and BSite45](/images/posters/magicDaffodilsAtHighStreetWithJonCollin-2025-10-23.jpg) | [Jon Collin](https://joncollin.bandcamp.com/), Bank of America, BSite45 |
 | 2025-06-28 |  ![Magic Daffodils at TAP Centre for Creativity Poster with Arma Agharta and Carrot Cake Milkshake- 2025-06-30](/images/posters/magicDaffodils_at_TAP_poster-2025-06-28.jpg) | [Arma Agharta](http://www.arma.lt/p/arma.html), [Carrot Cake Milkshake](https://www.instagram.com/carrotcakemilkshake/) |

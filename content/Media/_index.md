@@ -2,6 +2,11 @@
 title: Media
 ---
 
+## Magic Daffodils Publicity Photo - 2025-06-28
+![Magic Daffodils Composit Photo ](/images/action/magicDaffodilsComposit.JPG)
+
+_ Photo credit - Evan Pratten_ 
+
 ## "Cricket and the Bullfrogs" at RadioWestern - Beyond the Beyond - Live to Air - 2025-08-12
 ### Richard Moule (synths, noises, and effects). Alex Schmoll (synths, beats, and effects), and Warren (guitar and effects)
 ![Cricket and the Bullfrogs RadioWestern - Beyond the Beyond - 2025-08-12](/images/action/cricketAndTheBullfrogsCHRW20250812.jpg)

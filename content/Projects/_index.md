@@ -19,15 +19,17 @@ I’ve been playing with a group that calls themselves the **Magic Daffodils**. 
 
 You can read more [here](/Projects/magicdaffodils)
 
-### Proud Papa (Current)
 
-A little bit about some of the collaborations with my son Evan can be found [here](/Projects/proudpapa)
 
 ### Trout Fish Derby (Current)
 
 Trout Fish Derby is the project name for some ambient music I've been doing with Alex Schmoll.   
 
 More [here](/Projects/troutfishderby)
+
+### Proud Papa (Current)
+
+A little bit about some of the collaborations with my son Evan can be found [here](/Projects/proudpapa)
 
 ### (Mostly) Free Jazz Concert Series (Current)
 
