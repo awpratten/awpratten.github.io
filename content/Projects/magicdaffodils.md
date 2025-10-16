@@ -33,12 +33,12 @@ The Magic Daffodils have played at
 | 2025-10-23 | ![Magic Daffodils at High Street - By Delhi Gang with Jon Collin, Bank of America, and BSite45](/images/posters/magicDaffodilsAtHighStreetWithJonCollin-2025-10-23.jpg) | Jon Collin, Bank of America, BSite45|
 | 2025-06-28 | ![Magic Daffodils at TAP Centre for Creativity Poster with Arma Agharta and Carrot Cake Milkshake- 2025-06-30](/images/posters/magicDaffodils_at_TAP_poster-2025-06-28.jpg) | Arma Agharta, Carrot Cake Milkshake |
 
-| 2024-12-20 | ![Magic Daffodils at TAP Centre for Creativity Poster for Mas Aya Coming and Going release - 2024-12-20](/images/posters/magicDaffodils_at_Tap_poster-2024-12-20.jpg) | Mas Aya |
+| 2024-12-20 | ![Magic Daffodils at TAP Centre for Creativity Poster for Mas Aya Coming and Going release - 2024-12-20](/images/posters/magicDaffodils_at_Tap_poster-2024-12-20.jpg) | Mas Aya, Slow Attack Ensemble |
 
 | 2024-08-02 | ![Magic Daffodils at Electric Eclectics - 2024--08-02](/images/posters/magicDaffodils_at_ElectricEclectics_2024-08-02.jpg) | |
 
-| | | ![Magic Daffodils and Friends at TAP Centre for Creativity Poster - 2024-09-06](/images/posters/magicDaffodils_and_friends_tap_poster.jpg) | |
+| 2024-09-06  | | ![Magic Daffodils and Friends at TAP Centre for Creativity Poster - 2024-09-06](/images/posters/magicDaffodils_and_friends_tap_poster.jpg) | |
 
-| 2024-03-01 | ![Magic Daffodils at Forest City Gallery Poster - 2024-03-01](/images/posters/magic_daffodils_at_fcg.jpg) | |
+| 2024-03-01 | ![Magic Daffodils at Forest City Gallery Poster - 2024-03-01](/images/posters/magic_daffodils_at_fcg.jpg) | SLow Attack Ensemble, Bank of America |
 
 | 2023-08-17 | ![Magic Daffodils at TAP Centre for Creativity Poster - 2023-08-17](/images/posters/magic_daffodils_at_tap_poster.png) | |
