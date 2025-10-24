@@ -2,6 +2,9 @@
 title: Media
 ---
 
+## Playing with Magic Daffodils at High Street Bar and Grill - October 23, 2025
+![Me with Magic Daffodils at High Street Bar and Grill](/images/posters/meWtihMagicDaffodilsAtHighStreet2025-10-23.JPG)
+
 ## Magic Daffodils Publicity Photo - 2025-06-28
 ![Magic Daffodils Composite Photo ](/images/posters/magicDaffodilsComposite.JPG)
 
