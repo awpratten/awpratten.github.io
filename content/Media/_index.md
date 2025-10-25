@@ -3,7 +3,7 @@ title: Media
 ---
 
 ## Playing with Magic Daffodils at High Street Bar and Grill - October 23, 2025
-![Me with Magic Daffodils at High Street Bar and Grill](/images/action/meWithMagicDaffodilsAtHighStreet2025-10-23.JPG)
+![Magic Daffodils at High Street Bar and Grill](/images/action/magicDaffodilsAtHighStreet2025-10-23.JPG)
 
 ## Magic Daffodils Publicity Photo - 2025-06-28
 ![Magic Daffodils Composite Photo ](/images/posters/magicDaffodilsComposite.JPG)
@@ -20,7 +20,7 @@ _Photo credit - Evan Pratten_
 
 ## Magic Daffodils at TAP Centre for Creativity - Mas Aya "Coming and Going" Album Release Party -December 20, 2024
 ![Magic Daffodils at TAP ](/images/action/magicDaffodilsAtTap20241220.JPG)
-// ![Magic Daffodils at TAP](/images/action/meAtTAPmagicDaffodils20241220.JPG)
+![Magic Daffodils at TAP](/images/action/meAtTAPmagicDaffodils20241220.JPG)
 
 ## Magic Daffodils and Friends at TAP Centre for Creativity - September 6, 2024
 // ![Magic Daffodils and Friends at TAP](/images/action/meAtTAPmagicDaffodilsAndFriends1.jpg)
@@ -30,7 +30,7 @@ _Photo credit - Evan Pratten_
 
 ## Magic Daffodils at Electric Eclectics August 2, 2024
 ![Magic Daffodils at Electric Eclectics](/images/action/magicDaffodilsAtElectricEclectic20240802.jpg)
-// ![Magic Daffodils at Electric Eclectics - Me front](/images/action/meAtEE20240802one.jpg)
+![Magic Daffodils at Electric Eclectics - Me front](/images/action/meAtEE20240802one.jpg)
 ![Magic Daffodils at Electric Eclectics - Me sunset](/images/action/meAtEE20240802two.jpg)
 
 
@@ -79,7 +79,7 @@ _Photo credit - Evan Pratten_
 
 ## Magic Daffodils at Bernie's, December 3, 2022
 ![Magic Daffodils at Bernie's studio - Warren and Bernie](/images/action/magicDaffodilsAtBernies3.JPG)
-// ![Magic Daffodils at Berie's studio](/images/action/magicDaffodilsAtBernies2.JPG)
+![Magic Daffodils at Berie's studio](/images/action/magicDaffodilsAtBernies2.JPG)
 ![Magic Daffodils at Berie's studio](/images/action/magicDaffodilsAtBernies1.JPG)
 
 ## Magic Daffodils at Alex's Farm, June 10, 2021
@@ -88,11 +88,11 @@ _Photo credit - Evan Pratten_
 
 ## Name With No Sound @ The Forest City Gallery December 12, 2009
 ![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery1.jpg)
-// ![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery2.jpg)
+![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery2.jpg)
 ![Name With No Sound at The Forest City Gallery](/images/action/nwnsAtForestCityGallery3.jpg)
 
 ## Jamming with 6Heads, 3 Stooges, and my son Evan at the Forest City Gallery - 2011/07/10
-// ![With Evan, 3 Stooges, and 6 Heads](/images/action/withEvanAnd3stoogiesAnd6heads.jpg)
+![With Evan, 3 Stooges, and 6 Heads](/images/action/withEvanAnd3stoogiesAnd6heads.jpg)
 ![With Evan, 3 Stooges, and 6 Heads](/images/action/withEvanAnd3stoogiesAnd6heads2.jpg)
 
 ## Performing at the Hugh McIntyre Memorial Jam, Decent Club, London, Ontario, 2005
@@ -100,7 +100,7 @@ _Photo credit - Evan Pratten_
 
 ## Baku at Eric Stach's Studio 105, 2003
 ![Baku performing at Eric Stach's Studio105](/images/action/atEricStachStudio.png)
-// ![Baku performing at Eric Stach's Studio105](/images/action/atEricStachsWithBaku.jpg)
+![Baku performing at Eric Stach's Studio105](/images/action/atEricStachsWithBaku.jpg)
 ![Baku performing at Eric Stach's Studio105](/images/action/bakuAtEricStachs.jpg)
 
 ## Baku in the BOF Shelter, London, Ontario
@@ -119,7 +119,7 @@ Night performance in the pouring rain
 
 
 ## Baku performing at the Screw CD Release Party, Call the Office, London, Ontario, 1998
-// ![Playing at the Screw Release Party](/images/action/atCallTheOffice.jpg)
+![Playing at the Screw Release Party](/images/action/atCallTheOffice.jpg)
 ![Playing at the Screw Release Party](/images/action/bakuAtCallTheOffice.jpg)
 
 
