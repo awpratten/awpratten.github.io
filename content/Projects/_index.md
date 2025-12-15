@@ -27,6 +27,12 @@ Trout Fish Derby is the project name for some ambient music I've been doing with
 
 More [here](/Projects/troutfishderby)
 
+### Adhoc Projects (Current)
+
+On August 12, 2025, Richard Moule, Alex Schmoll, and I performed a live to air show on RadioWestern Beyond the Beyond show.  We performed under the name of "Cricket and the Bullfrogs".
+
+On November 25, 2025, Richard Moule, Alex Schmoll, Ed Homonylo, and I performed a live to air show on adioWestern Beyond the Beyond show.  We performed under the name of "Cold Water Project".
+
 ### Proud Papa (Current)
 
 A little bit about some of the collaborations with my son Evan can be found [here](/Projects/proudpapa)
