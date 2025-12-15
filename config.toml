@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://pratten.ca"
+base_url = "https://www.pratten.ca"
 
 # Website title
 title = "Warren Pratten - Musician"
