@@ -15,7 +15,7 @@ You can read more [here](/Projects/solo)
 
 ### Magic Daffodils (Current)
 
-I’ve been playing with a group that calls themselves the **Magic Daffodils**.  This is a group that is playing what I’d describe as ambient-noise.  The group includes guitar, drums, bass, electric violin, synthesizers and samples. 
+I’ve been playing with a group that calls themselves **Magic Daffodils**.  This is a group that is playing what I’d describe as ambient-noise.  The group includes guitar, drums, bass, electric violin, synthesizers and samples. 
 
 You can read more [here](/Projects/magicdaffodils)
 
