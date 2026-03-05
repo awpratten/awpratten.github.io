@@ -56,7 +56,7 @@ What can I say? I am a Princeton Man.  This amp is the sound that I hear in my h
 
 ![Pedal Board](/images/gear/currentPedalBoard.jpg)
 
-I like having a variety of sounds available but I also appreciate a board that is simple enough for me to carry to a gig.   This is my "do everything" board.   I use it to record, play at home and play out.
+I like having a variety of sounds available but I also appreciate a board that is simple enough for me to carry to a gig.   This is my "do everything" board.   I use it to record, play at home and play out.   One of the keys to this pedalboard is its real time tweakabiity.   I've been doing a lot of spontaneous music with [Magic Daffodils](/Projects/magicdaffodils) and [Trout Fish Derby](/Projects/troutfishderby) where I felt having too many fixed presets limited my ability to react to what was being played.   This set of pedals allows me to tweak via knobs easily and yet each pedal has a lot of depth and complexity available.
 
 ### Tauren and Rat
 
