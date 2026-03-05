@@ -2,7 +2,7 @@
 title: Trout Fish Derby
 ---
 
-![Trout Fish Derby](/images/posters/tfdBanner.jpg)
+![Trout Fish Derby](/images/posters/tfdBanner.png)
 
 # Members:
 
