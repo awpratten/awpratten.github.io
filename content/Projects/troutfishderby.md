@@ -2,6 +2,8 @@
 title: Trout Fish Derby
 ---
 
+![Trout Fish Derby](/images/posters/tfdBanner.jpg)
+
 # Members:
 
 * Warren Pratten - Guitar, FX, Loops
