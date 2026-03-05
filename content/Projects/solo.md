@@ -10,9 +10,7 @@ In the spirit of keeping things simple the goal was to perform the pieces live i
 
 Since then I have spent some time focusing on my own song craft by creating guitar pieces I can and could play wholly. 
 
-Most recently I have released a new set of tracks called [Life is a Mosaic](https://awarrenpratten.bandcamp.com/album/life-is-a-mosaic)
-
-You can find my complete discography [here](/Discography/)
+Since that initial release and a followup [Life is a Mosaic](https://awarrenpratten.bandcamp.com/album/life-is-a-mosaic), I have devoted more time to creatng and releasing my own music.  No particular rules.  Some pieces are developed songs.   Other pieces are one offs or lucky accidents.  
 
 ## Media
 

@@ -54,13 +54,40 @@ What can I say? I am a Princeton Man.  This amp is the sound that I hear in my h
 
 ## Pedal Board
 
-![Pedal Board](/images/gear/pedalboardplus.jpg)
+![Pedal Board](/images/gear/currentPedalBoard.jpg)
 
 I like having a variety of sounds available but I also appreciate a board that is simple enough for me to carry to a gig.   This is my "do everything" board.   I use it to record, play at home and play out.
 
-### Line 6 M9
+### Tauren and Rat
 
-A very flexible multi-fx pedal that provides a wide range of different effects.   Depending on the situation I use this with or without the expression pedal which is why it is not attached to the board
+I really like this combination of overdrive/distortion.   I use the Tauren as a fairly clean overdrive pushing my amp a little bit and it helps thicken up my sound.   I use the Rat as both a distortion or at time pressing it almost into fuzz territory.   I like that it doesn't get as flubby as some fuzz pedals.  Instead if gives me some of that singing sustain while leaving some definition in my guitar tone.
+
+
+### Eventide Rose
+
+I really like this delay pedal.  I like the potential for a long (up to 54 seconds) delay.  The reversing delay is cool and the modulation is really nice.   It has some really usable extremes that can be interesting to experiment with.
+
+### MXR Layers
+
+I wanted a sustaining pedal.   Something that will grab and hold a note.   The Layers does a good job of that.   As a bonus it will hold three layers (hence the name).   I love the trigger, which if set right, will catch notes that pass a threshold and sustain them for me.
+
+### Montreal Assembly Count to Five
+
+A gift from my wife.   I was honestly uncertain about granular/glitchy pedals.   Almost all the demos I've seen of these types of effects sound very unmusical to me and therefore not something I'd use.   But having the CT5 has changed my mind.   Yes it can be crazy.  Yes it can be unpredictable but with some practice it can also be very musical.  It is a deep pedal that I experiment with often.
+
+### Eventide Black Hole
+
+I am definitely a reverb junky.   The Line 6 M9 has solid reverbs that I love and my Princeton has an incredible tube driven spring reverb but I wanted something that was totally otherworldly.  The Black Hole has an extremely powerful reverb engine that is easily tweakable.
+
+### TC Electronic Ditto X4
+
+I also have the original Ditto.  Much of my own recordings start from loops and I like the ability to have two independent loops.  I used to bring this along for working with [Name With No Sound](/Projects/namewithnosound) but with [Magic Daffodils](/Projects/magicdaffodils) there is already a lot of sound so adding loops would be too much.
+
+
+
+### Honourable Mention - Line 6 M9
+
+For over a decade this pedal was at the heart of my sound.   Almost everything [Name with No Sound](/Projects/namewithnosound) recorded used this pedal.  It is a very flexible multi-fx pedal that provides a wide range of different effects.   Depending on the situation I use this with or without the expression pedal which is why it is not attached to the board.  It currently sits on a secondary board that I can use in conjunction with the primary board above.
 
 Primary effects leveraged:
 * Reverse Delay
@@ -72,18 +99,6 @@ Primary effects leveraged:
 * Volume Pedal
 * Pitch Vibrato
 * Script Phaser
-
-### Eventide Rose
-
-The latest addition.  I like the potential for a long (up to 54 seconds) delay.  The reversing delay is cool and the modulation is really nice.
-
-### Eventide Black Hole
-
-I am definitely a reverb junky.   The Line 6 M9 has solid reverbs that I love and my Princeton has an incredible tube driven spring reverb but I wanted something that was totally otherworldly.  The Black Hole has an extremely powerful reverb engine that is easily tweakable.
-
-### TC Electronic Ditto X4
-
-I also have the original Ditto.  Much of my own recordings start from loops and I like the ability to have two independent loops.  I used to bring this along for working with [Name With No Sound](/Projects/namewithnosound) but with [Magic Daffodils](/Projects/magicdaffodils) there is already a lot of sound so adding loops would be too much.
 
 ## Recording Gear
 
