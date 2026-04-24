@@ -27,6 +27,12 @@ Trout Fish Derby is the project name for some ambient music I've been doing with
 
 More [here](/Projects/troutfishderby)
 
+### Game Jam Sound Design (Current)
+
+I've been trying my hand at game sound design.
+
+More [here](/Projects/gamejamsounddesign)
+
 ### Adhoc Projects (Current)
 
 On August 12, 2025, Richard Moule, Alex Schmoll, and I performed a live to air show on RadioWestern Beyond the Beyond show.  We performed under the name of "Cricket and the Bullfrogs".
