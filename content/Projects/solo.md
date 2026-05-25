@@ -12,6 +12,11 @@ Since then I have spent some time focusing on my own song craft by creating guit
 
 Since that initial release and a followup [Life is a Mosaic](https://awarrenpratten.bandcamp.com/album/life-is-a-mosaic), I have devoted more time to creatng and releasing my own music.  No particular rules.  Some pieces are developed songs.   Other pieces are one offs or lucky accidents.  
 
+** 2026 ** 
+I've set a goal for myself to release at least one new track every month for 2026. Part of the motivation is to force myself to finish some pieces. A large part of the motivation is to improve my music making craft. I honestly can't tell you now what will come of this so let's do this adventure together.   
+
+I am only releasing the works in progress on [Bandcamp](https://awarrenpratten.bandcamp.com/album/2026) because of its more flexible ability to tailor releases.   At the end of 2026, this collection will be released on other platforms.
+
 ## Media
 
 You can find my music on platforms such as 
