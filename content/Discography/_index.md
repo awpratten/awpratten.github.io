@@ -2,6 +2,9 @@
 title: My Discography
 ---
 
+[bandcamp width=100% height=42 album=441701772 size=small bgcol=ffffff linkcol=0687f5 track=798248503]
+{{ discog_entry(title="Bernie Koenig & Warren Pratten - Duet 2024-10-18", pub_date="2024", bandcamp_embed_single="798248503") }}
+
 {{ discog_entry(title="Trout Fish Derby and Magic Daffodils @ Synth Picnic 2026", pub_date="2026", bandcamp_embed="441701772", publisher="Occasional Jake") }}
 {{ discog_entry(title="Warren Pratten - 2026", pub_date="2026", bandcamp_embed="2054984511") }}
 {{ discog_entry(title="Warren Pratten - Dani's Ditties", pub_date="2025", spotify_embed="/album/79LGOowEvZagTUj9W3fKZE", single=false)}}
