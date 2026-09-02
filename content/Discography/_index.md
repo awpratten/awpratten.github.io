@@ -3,7 +3,8 @@ title: My Discography
 ---
 
 
-{{ discog_entry(title="Magic Daffodils and Trout Fish Derby @ Synth Picnic - 2026 ", pub_date="2026", bandcamp_embed_single="1181821277", bandcamp_embed_single="798248503", publisher="Occasional Jake") }}
+{{ discog_entry(title="Trout Fish Derby @ Synth Picnic - 2026 ", pub_date="2026", bandcamp_embed_single="798248503", publisher="Occasional Jake") }}
+{{ discog_entry(title="Magic Daffodils @ Synth Picnic - 2026 ", pub_date="2026", bandcamp_embed_single="1181821277", publisher="Occasional Jake") }}
 {{ discog_entry(title="Warren Pratten - 2026", pub_date="2026", bandcamp_embed="2054984511") }}
 {{ discog_entry(title="Warren Pratten - Dani's Ditties", pub_date="2025", spotify_embed="/album/79LGOowEvZagTUj9W3fKZE", single=false)}}
 {{ discog_entry(title="Trout Fish Derby - Populuxe Fantasy", pub_date="2025", bandcamp_embed="1426012627") }}
