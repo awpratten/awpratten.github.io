@@ -20,3 +20,4 @@ You can hear our music on
 * [Apple Music](https://music.apple.com/us/artist/trout-fish-derby/1834114302) 
 * [Amazon Music](https://music.amazon.com/artists/B0FMYRGGGM/trout-fish-derby)
 
+You can find out more about [Trout Fish Derby](https://www.troutfishderby.ca) by visiting the band's website.  
