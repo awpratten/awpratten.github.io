@@ -2,7 +2,8 @@
 title: My Discography
 ---
 
-
+{{ discog_entry(title="Trout Fish Derby - Jennifer's Blue - Please, Please Help Vol 3", pub_date="2026", bandcamp_embed_single="4192843411", publisher="Please Please Help") }}
+{{ discog_entry(title="Magic Daffodils - Let's Go Again - Please, Please Help Vol 3", pub_date="2026", bandcamp_embed_single="1913489033", publisher="Please Please Help") }}
 {{ discog_entry(title="Trout Fish Derby @ Synth Picnic - 2026 ", pub_date="2026", bandcamp_embed_single="798248503", publisher="Occasional Jake") }}
 {{ discog_entry(title="Magic Daffodils @ Synth Picnic - 2026 ", pub_date="2026", bandcamp_embed_single="1181821277", publisher="Occasional Jake") }}
 {{ discog_entry(title="Warren Pratten - 2026", pub_date="2026", bandcamp_embed="2054984511") }}
